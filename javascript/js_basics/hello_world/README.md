@@ -17,7 +17,7 @@
 
 ##### This image shows the *Hello World* code that creates and runs the application 
 
-![Hello World IMG 1](img/hello_world_img_1.PNG "Hello World code IMG 1"
+![Hello World IMG 1](img/hello_world_img_1.PNG "Hello World code IMG 1")
 
 ##### *HTML* code that was used for this application
 
