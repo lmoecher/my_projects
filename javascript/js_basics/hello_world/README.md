@@ -2,7 +2,7 @@
 
 ## Section Contains:
 
-*Two Parts*:
+*Three Parts*:
 
 1. The *Hello World* application 
 2. Screenshot of *Hello World* running on the Browser Console
