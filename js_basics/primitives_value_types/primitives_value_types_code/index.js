@@ -1,5 +1,5 @@
 // Primitives/ Value Types are basic data types that represent simple pieces of information, such as numbers, characters, or booleans.
-// Strings
+// String
 // Number
 // Boolean
 // Undefined
