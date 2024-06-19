@@ -24,7 +24,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 ##### *HTML* code that was used for this application
 
-![HTML code IMG 1](img/const_code_img_2.PNG "HTML code IMG 2")
+![HTML code IMG 1](img/const_code_img_2.PNG "HTML code IMG 1")
 
 # Examples
 
@@ -36,7 +36,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 ### What Happens? 
 
-> * *let* running in the browser console
+> * *let* running in the Browser Console
 
 > ![Let Variable Running in Browser](img/const_code_v1_img_2.PNG "Image 2 of let Variable")
 
@@ -52,7 +52,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 ### What Happens?
 
-> * *const* running in the browser console
+> * *const* running in the Browser Console
 
 > ![Constant Variable Running in Browser](img/const_code_v2_img_2.PNG "Image 2 of consy Variable")
 
@@ -68,7 +68,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 ### What Happens?
 
-> * *const* running in the browser console
+> * *const* running in the Browser Console
 
 > ![Constant Variable Running in Browser](img/const_code_v3_img_2.PNG "Image 2 of consy Variable")
 
