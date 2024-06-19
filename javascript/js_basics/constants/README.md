@@ -30,7 +30,7 @@ assigns a name to that value, the value of that *const* cannot change.
  
 > ![Let Variable Example](img/const_code_v1_img_1.PNG "Image 1 of let Variable")
 
-> ### What Happens? 
+### What Happens? 
 
 > * *let* running in the browser console using HTML
 
@@ -46,7 +46,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 > ![Let Variable Example](img/const_code_v2_img_1.PNG "Image 1 of const Variable")
 
-> ### What Happens?
+### What Happens?
 
 > * *const* running in the browser console using HTML
 
