@@ -1,9 +1,9 @@
-# My Projects using JavaScript
-This is a repository designated to showing me work done in JavaScript 
+# My Projects 
+This is a repository designated to showing me work done using different coding Languages
 
 ## Logan Moecher
 
-*Project Links:*
+*Coding Language Links:*
 
 1. 
 
