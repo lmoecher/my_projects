@@ -11,9 +11,9 @@
 #### This file includes:
 
 * Link to Constants code file [constants_code](constants_code/index.js "Constants file")
-* Screenshots of the application running [Constants Img](constants/img "Image Folder")
+* Screenshots of the application running 
 
-## Constants Description
+## Constant Description
 
 * *Constant* or *const* is a keyword that allows users to assign a name to value. Once *const*
 assigns a name to that value, the value of that *const* cannot change. 
@@ -22,7 +22,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 * This image shows 3 blocks of code. One using the *let* variable and two using the *const* variable.
 
-## Examples
+# Examples
 
 ### Example 1: Using *let*
 
@@ -30,7 +30,7 @@ assigns a name to that value, the value of that *const* cannot change.
  
 ![Let Variable Example](img/const_code_v1_img_1.PNG "Image 1 of let Variable")
 
-#### What Happens? 
+### What Happens? 
 
 * *let* running in the browser console using HTML
 
@@ -46,7 +46,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 ![Let Variable Example](img/const_code_v2_img_1.PNG "Image 1 of const Variable")
 
-#### What Happens?
+### What Happens?
 
 * *const* running in the browser console using HTML
 
