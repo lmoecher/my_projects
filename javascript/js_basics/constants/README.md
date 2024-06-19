@@ -18,7 +18,7 @@
 * *Constant* or *const* is a keyword that allows users to assign a name to value. Once *const*
 assigns a name to that value, the value of that *const* cannot change. 
 
-![Constant code IMG 1](img/const_code_img_.PNG "Constant code IMG 1")
+![Constant code IMG 1](img/const_code_img_1.PNG "Constant code IMG 1")
 
 * This image shows 3 blocks of code. One using the *let* variable and two using the *const* variable.
 
