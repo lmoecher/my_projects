@@ -5,5 +5,5 @@ This is a repository designated to showing me work done using different coding L
 
 *Coding Language Links:*
 
-1. 
+1. [JavaScript Projects](javascript/README.md "JavaScript README.md file")
 
