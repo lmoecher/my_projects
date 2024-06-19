@@ -26,27 +26,33 @@ assigns a name to that value, the value of that *const* cannot change.
 
 ### Example 1: Using *let*
 
-* ####*let* variable 
+* #### *let* variable
+ 
 ![Let Variable Example](img/const_code_v1_img_1.PNG "Image 1 of let Variable")
 
 #### What Happens? 
 
 * *let* running in the browser console using HTML
+
 ![Let Variable Running in Browser](img/const_code_v1_img_2.PNG "Image 2 of let Variable")
 
 * *let* running in the Command Prompt using node
+
 ![Let Variable Running in through the Command Prompt using Node](img/const_code_v1_img_3.PNG "Image 3 of let Variable")
 
 ### Example 2: Using *const* the incorrect way
 
-* ####*const* variable used incorrectly
+* #### *const* variable used incorrectly
+
 ![Let Variable Example](img/const_code_v2_img_1.PNG "Image 1 of const Variable")
 
 #### What Happens?
 
-* *const* running in the browser console using HTML 
+* *const* running in the browser console using HTML
+
 ![Constant Variable Running in Browser](img/const_code_v2_img_2.PNG "Image 2 of consy Variable")
 
 * *let* running in the Command Prompt using node
+
 ![Constant Variable Running in through the Command Prompt using Node](img/const_code_v2_img_3.PNG "Image 3 of const Variable")
 
