@@ -52,7 +52,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 ![Constant Variable Running in Browser](img/const_code_v2_img_2.PNG "Image 2 of consy Variable")
 
-* *let* running in the Command Prompt using node
+* *const* running in the Command Prompt using node
 
 ![Constant Variable Running in through the Command Prompt using Node](img/const_code_v2_img_3.PNG "Image 3 of const Variable")
 
