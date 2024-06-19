@@ -1,4 +1,4 @@
-# Constants 
+# Constants in JS
 
 ## Section Contains:
 
