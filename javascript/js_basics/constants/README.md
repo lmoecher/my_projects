@@ -44,7 +44,7 @@ assigns a name to that value, the value of that *const* cannot change.
 
 > * #### *const* variable used incorrectly
 
-> ![Let Variable Example](img/const_code_v2_img_1.PNG "Image 1 of const Variable")
+> ![Constant Variable Example](img/const_code_v2_img_1.PNG "Image 1 of const Variable")
 
 ### What Happens?
 
@@ -55,4 +55,21 @@ assigns a name to that value, the value of that *const* cannot change.
 > * *const* running in the Command Prompt using node
 
 > ![Constant Variable Running in through the Command Prompt using Node](img/const_code_v2_img_3.PNG "Image 3 of const Variable")
+
+### Example 3: Using *const* the correct way
+
+> * #### *const* variable used correctly
+
+> ![Constant Variable Example](img/const_code_v3_img_1.PNG "Image 1 of const Variable")
+
+### What Happens?
+
+> * *const* running in the browser console using HTML
+
+> ![Constant Variable Running in Browser](img/const_code_v3_img_2.PNG "Image 2 of consy Variable")
+
+> * *const* running in the Command Prompt using node
+
+> ![Constant Variable Running in through the Command Prompt using Node](img/const_code_v3_img_3.PNG "Image 3 of const Variable")
+
 
