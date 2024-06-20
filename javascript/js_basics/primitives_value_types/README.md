@@ -48,7 +48,13 @@
 
 ### Output
 
+##### *String* application running in the Browser Console
 
+![String IMG 2](img/strings_img_2.PNG "String IMG 2")
+
+##### *String* application running in Command Prompt
+
+![String IMG 3](img/strings_img_3.PNG "String IMG 3")
 
 ## Number 
 

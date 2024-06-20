@@ -85,8 +85,7 @@
             Eye Color: ${person.eyeColor}\n
             Hair Color: ${person.hairColor}`; 
         } else {
-            return `Id ${searchId} is shown below\n
-            ID not in the System!`;
+            return `ID not in the System!`;
         }
     }
     {
