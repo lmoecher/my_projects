@@ -38,6 +38,28 @@
 > * BigInt
 > * Symbol
 
+## String
+
+* *String*: This data type represents a sequence of characters. Strings are enclosed in single or double quotes. For example, “Hello, world!” is a string.
+
+### Example
+
+![String IMG 1](img/strings_img_1.PNG "String IMG 1")
+
+## Number 
+
+* *Number*: This data type represents a numerical value. It can be an integer or a floating-point number. For example, 5, 10.2, -3.5 are all numbers. Some numbers may not be represented accurately. This is due to rounding errors, which can be avoided by using "toFixed()" methos to round the total.
+
+### Example
+
+![Number IMG 1](img/numbers_img_1.PNG "Number IMG 1")
+
+## Boolean
+
+* *Boolean*: This data type represents a logical value, either true or false. (T/F can not be used as variables because they are reserved keywords)
+
+ 
+
 
 
 
