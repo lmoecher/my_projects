@@ -66,7 +66,13 @@
 
 ### Output
 
+##### *Number* application running in the Browser Console
 
+![Number IMG 2](img/numbers_img_2.PNG "Number IMG 2")
+
+##### *Number* application running in the Command Prompt
+
+![Number IMG 2](img/numbers_img_2.PNG "Number IMG 2")
 
 ## Boolean
 
@@ -78,7 +84,13 @@
 
 ### Output
 
+##### *Boolean* application running in the Browser Console
 
+![Boolean IMG 2](img/boolean_img_2.PNG "Boolean IMG 2")
+
+##### *Boolean* application running in the Command Prompt
+
+![Boolean IMG 3](img/boolean_img_3.PNG "Boolean IMG 3")
 
 ## Undefined
 
@@ -90,7 +102,13 @@
 
 ### Output
 
+##### *Undefined* application running in the Browser Console
 
+![Undefined IMG 2](img/undefined_img_2.PNG "Undefined IMG 2")
+
+##### *Undefined* application running in the Command Prompt 
+
+![Undefined IMG 3](img/undefined_img_3.PNG "Undefined IMG 3")
 
 ## Null
 
@@ -102,7 +120,13 @@
 
 ### Output
 
+##### *Null* application running in the Browser Console
 
+![Null IMG 2](img/null_img_2.PNG "Null IMG 2")
+
+##### *Null* application running in the Command Prompt
+
+![Null IMG 3](img/null_img_3.PNG "Null IMG 3")
 
 ## BigInt
 
@@ -114,8 +138,13 @@
 
 ### Output
 
+##### *BigInt* application running in the Browser Console
 
+![BigInt IMG 2](img/bigint_img_2.PNG "BigInt IMG 2")
 
+##### *BigInt* application running in the Command Prompt
+
+![BigInt IMG 3](img/bigint_img_3.PNG "BigInt IMG 3")
 
 ## Symbol
 
@@ -123,8 +152,31 @@
 
 ### Example
 
-* An function was used to demonstrate a useful way to use symbols.
+* A function was used to demonstrate a useful way to use symbols.
 
-![Symbol IMG 1](img/symbols_img_1.PNG "BigInt IMG 1")
+![Symbol IMG 1](img/symbols_img_1.PNG "Symbol IMG 1")
 
 ### Output
+
+* Output is only displayed in Browser Console due to node not allowing the use of "prompt". "prompt" is needed for the user input. There is a way to uhave user inputs in node, it just uses a different method. For this application I used "prompt".
+
+##### *Symbol* application prompting the user for a user ID
+
+![Symbol IMG 2](img/symbols_img_2.PNG "Symbol IMG 2")
+
+##### *Symbol* application recieving user input as "12345" prompts the system to check for any users with that ID number.
+
+![Symbol IMG 3](img/symbols_img_3.PNG "Symbol IMG 3")
+
+##### *Symbol* application returns with a user because that specific ID number is in the sytem.
+
+![Symbol IMG 4](img/symbols_img_4.PNG "Symbol IMG 4")
+
+##### *Symbol* application recieving user input as "123456" prompts the system to check for any users with that ID number.
+
+![Symbol IMG 3](img/symbols_img_3.PNG "Symbol IMG 5")
+
+##### *Symbol* application returns with "ID not found in system!" because ID is not in the system.
+
+![Symbol IMG 6](img/symbols_img_6.PNG "Symbol IMG 6")
+
