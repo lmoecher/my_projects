@@ -13,7 +13,7 @@
 * Link to Constants code file [constants_code](constants_code/index.js "Constants file")
 * Screenshots of the application running 
 
-## Constant Description
+# Constant Description
 
 * *Constant* or *const*: is a keyword that allows users to assign a name to value. Once *const*
 assigns a name to that value, the value of that *const* cannot change. 
