@@ -55,7 +55,6 @@
 ##### *String* application running in Command Prompt
 
 ![String IMG 3](img/strings_img_3.PNG "String IMG 3")
-
 ##
 
 ## Number 
@@ -75,7 +74,6 @@
 ##### *Number* application running in the Command Prompt
 
 ![Number IMG 2](img/numbers_img_2.PNG "Number IMG 2")
-
 ##
 
 ## Boolean
@@ -95,7 +93,6 @@
 ##### *Boolean* application running in the Command Prompt
 
 ![Boolean IMG 3](img/boolean_img_3.PNG "Boolean IMG 3")
-
 ##
 
 ## Undefined
@@ -115,7 +112,6 @@
 ##### *Undefined* application running in the Command Prompt 
 
 ![Undefined IMG 3](img/undefined_img_3.PNG "Undefined IMG 3")
-
 ##
 
 ## Null
@@ -135,7 +131,6 @@
 ##### *Null* application running in the Command Prompt
 
 ![Null IMG 3](img/null_img_3.PNG "Null IMG 3")
-
 ##
 
 ## BigInt
@@ -155,7 +150,6 @@
 ##### *BigInt* application running in the Command Prompt
 
 ![BigInt IMG 3](img/bigint_img_3.PNG "BigInt IMG 3")
-
 ##
 
 ## Symbol
