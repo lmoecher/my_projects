@@ -40,26 +40,85 @@
 
 ## String
 
-* *String*: This data type represents a sequence of characters. Strings are enclosed in single or double quotes. For example, “Hello, world!” is a string.
+* *String*: This data type represents a sequence of characters. Strings are enclosed in single or double quotes. For example, “Hello World!” is a string.
 
 ### Example
 
 ![String IMG 1](img/strings_img_1.PNG "String IMG 1")
 
+### Output
+
+
+
 ## Number 
 
-* *Number*: This data type represents a numerical value. It can be an integer or a floating-point number. For example, 5, 10.2, -3.5 are all numbers. Some numbers may not be represented accurately. This is due to rounding errors, which can be avoided by using "toFixed()" methos to round the total.
+* *Number*: This data type represents a numerical value. It can be an integer or a floating-point number. For example, 5, 10.2, -3.5 are all numbers. Some numbers may not be represented accurately. This is due to rounding errors, which can be avoided by using "toFixed()" method to round the total.
 
 ### Example
 
 ![Number IMG 1](img/numbers_img_1.PNG "Number IMG 1")
 
+### Output
+
+
+
 ## Boolean
 
 * *Boolean*: This data type represents a logical value, either true or false. (T/F can not be used as variables because they are reserved keywords)
 
- 
+### Example
+
+![Boolean IMG 1](img/boolean_img_1.PNG "Boolean IMG 1")
+
+### Output
+
+
+
+## Undefined
+
+* *Undefined*: This data type represents a value that is not defined.
+
+### Example
+
+![Undefined IMG 1](img/undefined_img_1.PNG "Undefined IMG 1")
+
+### Output
+
+
+
+## Null
+
+* *Null*: This data type represents a null or empty value.
+
+### Example
+
+![Null IMG 1](img/null_img_1.PNG "Null IMG 1")
+
+### Output
+
+
+
+## BigInt
+
+* *BigInt*: This data type represents integers that are larger than 2⁵³-1 or smaller than -(2⁵³-1). 
+
+### Example
+
+![BigInt IMG 1](img/bigint_img_1.PNG "BigInt IMG 1")
+
+### Output
 
 
 
 
+## Symbol
+
+* *Symbol*: This data type represents a unique value that cannot be duplicated. Often used as keys in objects to avoid naming issues
+
+### Example
+
+* An function was used to demonstrate a useful way to use symbols.
+
+![Symbol IMG 1](img/symbols_img_1.PNG "BigInt IMG 1")
+
+### Output
