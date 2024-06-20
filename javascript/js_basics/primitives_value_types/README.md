@@ -56,6 +56,8 @@
 
 ![String IMG 3](img/strings_img_3.PNG "String IMG 3")
 
+
+
 ## Number 
 
 * *Number*: This data type represents a numerical value. It can be an integer or a floating-point number. For example, 5, 10.2, -3.5 are all numbers. Some numbers may not be represented accurately. This is due to rounding errors, which can be avoided by using "toFixed()" method to round the total.
@@ -73,6 +75,8 @@
 ##### *Number* application running in the Command Prompt
 
 ![Number IMG 2](img/numbers_img_2.PNG "Number IMG 2")
+
+
 
 ## Boolean
 
@@ -92,6 +96,8 @@
 
 ![Boolean IMG 3](img/boolean_img_3.PNG "Boolean IMG 3")
 
+
+
 ## Undefined
 
 * *Undefined*: This data type represents a value that is not defined.
@@ -109,6 +115,8 @@
 ##### *Undefined* application running in the Command Prompt 
 
 ![Undefined IMG 3](img/undefined_img_3.PNG "Undefined IMG 3")
+
+
 
 ## Null
 
@@ -128,6 +136,8 @@
 
 ![Null IMG 3](img/null_img_3.PNG "Null IMG 3")
 
+
+
 ## BigInt
 
 * *BigInt*: This data type represents integers that are larger than 2⁵³-1 or smaller than -(2⁵³-1). 
@@ -145,6 +155,8 @@
 ##### *BigInt* application running in the Command Prompt
 
 ![BigInt IMG 3](img/bigint_img_3.PNG "BigInt IMG 3")
+
+
 
 ## Symbol
 
