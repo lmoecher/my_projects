@@ -56,7 +56,7 @@
 
 ![String IMG 3](img/strings_img_3.PNG "String IMG 3")
 
-
+##
 
 ## Number 
 
@@ -76,7 +76,7 @@
 
 ![Number IMG 2](img/numbers_img_2.PNG "Number IMG 2")
 
-
+##
 
 ## Boolean
 
@@ -96,7 +96,7 @@
 
 ![Boolean IMG 3](img/boolean_img_3.PNG "Boolean IMG 3")
 
-
+##
 
 ## Undefined
 
@@ -116,7 +116,7 @@
 
 ![Undefined IMG 3](img/undefined_img_3.PNG "Undefined IMG 3")
 
-
+##
 
 ## Null
 
@@ -136,7 +136,7 @@
 
 ![Null IMG 3](img/null_img_3.PNG "Null IMG 3")
 
-
+##
 
 ## BigInt
 
@@ -156,7 +156,7 @@
 
 ![BigInt IMG 3](img/bigint_img_3.PNG "BigInt IMG 3")
 
-
+##
 
 ## Symbol
 
