@@ -73,7 +73,7 @@
 
 ##### *Number* application running in the Command Prompt
 
-![Number IMG 2](img/numbers_img_2.PNG "Number IMG 2")
+![Number IMG 3](img/numbers_img_3.PNG "Number IMG 3")
 
 
 
