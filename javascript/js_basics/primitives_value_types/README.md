@@ -169,7 +169,7 @@
 
 ### Output
 
-* Output is only displayed in Browser Console due to node not allowing the use of "prompt". "prompt" is needed for the user input. There is a way to uhave user inputs in node, it just uses a different method. For this application I used "prompt".
+* Output is only displayed in Browser Console due to node not allowing the use of "prompt". There is a way to have user inputs in node, it just uses a different method. For this application I used "prompt".
 
 ##### *Symbol* application prompting the user for a user ID
 
