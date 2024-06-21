@@ -22,7 +22,7 @@
 
 ![Value Types IMG 1](img/value_types_img_1.PNG "Value Types IMG 1")
 
-##### *HTML* code that was used for this application
+##### *HTML* code that was used for these application
 
 ![HTML code IMG 1](img/value_types_img_2.PNG "HTML code IMG 1")
 
@@ -185,7 +185,7 @@
 
 ##### *Symbol* application recieving user input as "123456" prompts the system to check for any users with that ID number.
 
-![Symbol IMG 3](img/symbols_img_3.PNG "Symbol IMG 5")
+![Symbol IMG 3](img/symbols_img_5.PNG "Symbol IMG 5")
 
 ##### *Symbol* application returns with "ID not found in system!" because ID is not in the system.
 
