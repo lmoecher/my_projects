@@ -24,7 +24,7 @@ HTML was used in each to run the code through through the live browser.
     - Screenshots of *Value Types* running in the Command Prompt
 
 4. [Reference Types](reference_types/README.md "Reference Types file")
-    - Covering *Reference Types*: "Objects, Arrays, and Functions"
+    - Covering *Reference Types*: "Arrays, Functions, and Objects"
     - Covering each *Reference Types* and What happens when they are used 
     - Screenshots of code showing each *Reference Types* at work
     - Screenshots of *Reference Types* running in the Browser Console
