@@ -5,6 +5,10 @@
     console.log(selectedColors.length); // .length returns the number of items or elements in an array
 }
 
+
+
+
+
 //Function
 {
     // (name) inside the parentheses is referred a parameter to the greet function
@@ -17,6 +21,7 @@
     greet('Mokes'); // This causes them to show up on separate lines and be valued as undefined
 } // A ";" is not needed behind the curly bracket because it is not being declared  like a variable
 
+
 // Cleaner Version of the same Function
 {
     function greet(name, lastName) {
@@ -24,6 +29,7 @@
 }
     greet('Logan', 'Moecher');
 }
+
 
 // Function that calculates a value
 {
@@ -34,6 +40,9 @@
 }
 
 
+
+
+
 // Object
 {
     let person ={
@@ -41,6 +50,7 @@
         age: 26
     }; // "{}" Curly Brackets are known as Object
 }
+
 
 // Dot Notation 
 {
