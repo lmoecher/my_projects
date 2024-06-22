@@ -32,7 +32,7 @@
 
 * *Array*: is a data structure that we use to represent a list of items.
 * When using an *Array* index numbers start at 0 not 1, (0,1,2,3).
-* "[]" these brackets are called an array literal and indicate an empty array.
+* "[ ]" these brackets are called an array literal and indicate an empty array.
 
 ### Example
 
