@@ -112,7 +112,7 @@
 
 ### Example 
 
-![Object IMG 1](img/obj_code_img_1.PNG "Object img 1")
+![Object IMG 1](img/object_code_img_1.PNG "Object img 1")
 
 ### Output 
 
@@ -128,19 +128,19 @@
 
 ### Example 
 
-![DotIMG 1](img/dot_code_img_1.PNG "Dot img 1")
+![Dot IMG 1](img/dot_code_img_1.PNG "Dot img 1")
 
 ### Output 
 
-##### *Dot* application running in the Browser Console
+##### *Object* application running in the Browser Console using *Dot Notation*
 
 ![Dot IMG 2](img/dot_code_img_2.PNG "Dot IMG 2")
 
-##### *Object* application running in the Command Prompt
+##### *Object* application running in the Command Prompt using *Dot Notation*
 
 ![Dot IMG 3](img/dot_code_img_3.PNG "Dot IMG 3")
 
-## Dot Notation
+## Bracket Notation
 
 ### Example 
 
@@ -148,10 +148,10 @@
 
 ### Output 
 
-##### *Bracket* application running in the Browser Console
+##### *Object* application running in the Browser Console using *Bracket Notation*
 
 ![Bracket IMG 2](img/bracket_code_img_2.PNG "Bracket IMG 2")
 
-##### *Object* application running in the Command Prompt
+##### *Object* application running in the Command Prompt using *Bracket Notation*
 
 ![Bracket IMG 3](img/bracket_code_img_3.PNG "Bracket IMG 3")
