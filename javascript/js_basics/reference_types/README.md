@@ -16,7 +16,7 @@
 
 ##### *HTML* code that was used for these applications
 
-![HTML Code IMG 1](html_code_img_1.PNG "HTML CODE IMG 1")
+![HTML Code IMG 1](img/html_code_img_1.PNG "HTML CODE IMG 1")
 
 # Reference Types Description:
 
