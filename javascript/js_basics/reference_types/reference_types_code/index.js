@@ -14,7 +14,7 @@
 } // Inside the curly brackets is known as the body of the function
 
     greet('Logan'); // This statement is calling the function
-    greet('Mokes'); // This causes them to show up on separate lines and be value as undefined
+    greet('Mokes'); // This causes them to show up on separate lines and be valued as undefined
 } // A ";" is not needed behind the curly bracket because it is not being declared  like a variable
 
 // Cleaner Version of the same Function
@@ -33,7 +33,14 @@
     console.log(square(2));
 }
 
-// Objects are the properties of the variables
+
+// Object
+{
+    let person ={
+        name: 'Logan', // Objects
+        age: 26
+    }; // "{}" Curly Brackets are known as Object
+}
 
 // Dot Notation 
 {
@@ -47,7 +54,7 @@
 }
 
 
-//Bracket Notation
+// Bracket Notation
 {
     let person = {
         name: 'Logan', // Objects
