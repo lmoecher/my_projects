@@ -2,7 +2,7 @@
 This is the folder is designed to show that I've covered the Basics.
 HTML was used in each to run the code through through the live browser.
 
-## Logan Moecher
+## <span style="color:red"> *Logan Moecher* </span>
 
 *Links to different sections:*
 
