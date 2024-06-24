@@ -9,7 +9,7 @@
 
 #### This file includes: 
 
-* Link to the *Variables* file: [Variables] (variables_code_/index.js "Variable")
+* Link to the *Variables* file: [Variables](variables_code/index.js "Variable code file")
 * Screenshots of each *Variable* application and the output.
 
 ##### *HTML* code that was used for these applications
