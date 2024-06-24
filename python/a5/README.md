@@ -9,52 +9,54 @@
 
 ### Assignment 5 Requirements:
 
-*Sub-Heading:*
+*Four parts:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Complete Intro to R setup and tutorial, save as: learn_to_use_r.R
+2. Code and run A5 in R Studio and take screen shots of:<br>
+      a. learn_to_use_r.R <br>
+      b. lis4365_a5.R<br>
+      c. Links to both in A5 Readme<br>
+      d. Include at least for plots, two from each file<br>
+3. Test in Rstudio
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshots of learn_to_use_r.R and lis4369_a5.r running
+* Screenshots of Skill Sets
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+#### Link to learn_to_use_r file and a5 file
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+* Link to tutorial file: [learn_to_use_r.R](r_tutorial/learn_to_use_r.R "A5 Tutorial")
+* Link to A5 file: [lis4369_a5.R](r_tutorial/lis4369_a5.R "A5 file")
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshots of A5 in R Studio:*
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![A5 in R Studio Screenshot](img/a5_pic_1.PNG)
+![A5 in R Studio Screenshot](img/a5_pic_2.PNG)
+![A5 in R Studio Screenshot](img/a5_3.PNG)
 
-*Screenshot of running java Hello*:
+*Screenshots of Tutorial in R Studio *:
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
+![Tutorial Screenshot](img/learn_to_use_r_pic_1.PNG)
+![Tutorial Screenshot](img/learn_to_use_r_pic_2.PNG)
+![Tutorial Screenshot](img/learn_to_use_r_pic_3.PNG)
 
 
-#### Tutorial Links:
+#### Skill Sets:
 
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
+#### *Screenshot of Skill Set 13 running*:
 
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+![Skill Set 13 Screenshot](img/ss13_pic_1.PNG)
+
+
+#### *Screenshot of Skill Set 14 running*:
+
+![Skill Set 14 Screenshot](img/ss14_pic_1.PNG)
+![Skill Set 14 Screenshot](img/ss14_pic_2.PNG)
+
+#### *Screenshot of Skill Set 15 running*:
+
+![Skill Set 15 Screenshot](img/ss15_pic_1.PNG)
+

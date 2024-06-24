@@ -53,7 +53,11 @@
     - Skill sets 10, 11, and 12
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Complete R Studio tutorial
+    - Backward engineer (using python) demo.py
+    - Provide Screenshots of tutorial
+    - Provide Screenshots of A5
+    - Skill sets 13, 14, and 15
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Code and Run *demo.py* (using python)
@@ -66,4 +70,6 @@
     
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Backward engineer (using python) Project 2
+    - Provide Screenshots of P2
+    - Provide links to P2 and P2 output
