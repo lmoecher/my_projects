@@ -3,7 +3,12 @@ This is a repository designated to showing me work done using different coding L
 
 ## Logan Moecher
 
-*Coding Language Links:*
+*Coding Language Links:
 
-1. [JavaScript Projects](javascript/README.md "JavaScript README.md file")
+1. [CSS Projects](css/README.md "CSS README.md file")
 
+2. [HTML Projects](html/README.md "HTML README.md file")
+
+3. [JavaScript Projects](javascript/README.md "JavaScript README.md file")
+
+4. [Python Projects](python/README.md "Python README.md file")
