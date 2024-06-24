@@ -35,7 +35,7 @@
 
 ##### *Variable* application running in the Command Prompt
 
-![Variable code IMG 3](img/variables_cope_img_3.PNG "Variables code IMG 3")
+![Variable code IMG 3](img/variables_code_img_3.PNG "Variables code IMG 3")
 
 
  
