@@ -18,10 +18,6 @@
 * Link to the *Primitives* / *Value Types* file: [Primitives / Value Types](primitives_value_types_code/index.js "Primitives / Value Types file")
 * Screenshots of each *Value Type* application and the output
 
-##### This image shows quick Descriptions of each that will be covered later in this section.
-
-![Value Types IMG 1](img/value_types_img_1.PNG "Value Types IMG 1")
-
 ##### *HTML* code that was used for these application
 
 ![HTML code IMG 1](img/value_types_img_2.PNG "HTML code IMG 1")

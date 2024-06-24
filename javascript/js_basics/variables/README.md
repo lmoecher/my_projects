@@ -18,4 +18,9 @@
 
 # Variable Description: 
 
-* *Variable*: They are used to store data temporarily in a computers memory. 
+* *Variable*: They are used to store data temporarily in a computers memory.
+* *Variables* cannot be a reserved Keyword and should be meaningful.
+* *Variables* cannot start with a number (1name), space (name 1), or hyphen(-). 
+* *Variables* are case sensitive.
+
+
