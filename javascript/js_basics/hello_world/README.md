@@ -10,7 +10,7 @@
 
 #### This file includes: 
 
-* Link to *Hello World* code file [hello_world_code](hello_world_code/index.js "Hello World file")
+* Link to *Hello World* code file: [Hello World](hello_world_code/index.js "Hello World file")
 * Screenshots of the *Hello World* application running
 
 # Hello World application

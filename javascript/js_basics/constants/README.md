@@ -10,7 +10,7 @@
 
 #### This file includes:
 
-* Link to Constants code file [constants_code](constants_code/index.js "Constants file")
+* Link to Constants code file: [Constants Code](constants_code/index.js "Constants file")
 * Screenshots of the application running 
 
 # Constant Description
