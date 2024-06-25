@@ -7,11 +7,11 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 
 ### Web Page Building Blocks
 
-##### * CSS is for the styling of the web page
+##### - CSS is for the styling of the web page
 
-##### * HTML is for the structuring of the web page
+##### - HTML is for the structuring of the web page
 
-##### * JavaScipt is for the funcitonality of the web page
+##### - JavaScipt is for the funcitonality of the web page
 
 
 
