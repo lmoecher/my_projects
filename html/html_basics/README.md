@@ -5,13 +5,13 @@ This is the section designed to show that I've covered the Basics of *HTML*.
 
 ### HTML Description
 
-##### *HTML* or *Hypertext Markup Language* is a Markup Langauge used to define the building blocks of our webpages.
+##### *HTML* or *Hypertext Markup Language* is a Markup Language used to define the building blocks of our webpages.
 
 *Links to different sections:*
 
-1.
+1. Simple *HTML* Document: [My First Web Page]()
 
-2.
+2. 
 
 3.
 
