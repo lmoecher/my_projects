@@ -39,7 +39,7 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 * *HTTP* Message
 
 > GET /index.html HTTP/1.1  (This tends to represent the homepage of websites)
-> Host: WWW.github.com  
+> Host: www.github.com  
 > Accept-Language: en-us
 
 * This message tell the browsere what it is looking for.
