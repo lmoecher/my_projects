@@ -3,7 +3,7 @@ This is a repository designated to showing me work done using different coding L
 
 ## Logan Moecher
 
-*Coding Language Links:
+*Coding Language Links*:
 
 ### 1. CSS 
 [Projects](css/README.md "CSS README.md file")

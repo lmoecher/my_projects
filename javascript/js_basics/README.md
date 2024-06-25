@@ -1,7 +1,11 @@
 # JavaScript Basics
-This is the folder is designed to show that I've covered the Basics.
+This is the folder designed to show that I've covered the Basics of *JavaScript*.
 
 ## Logan Moecher
+
+### JavaScript Description
+
+#### *JavaScript* is a Programming Langauge used for adding functionality to webpages
 
 *Links to different sections:*
 
