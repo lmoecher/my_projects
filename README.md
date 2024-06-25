@@ -3,6 +3,8 @@ This is a repository designated to showing me work done using different coding L
 
 ## Logan Moecher
 
+#### How they work together: [The Web](the_web/README.md "the_web README.md file")
+
 *Coding Language Links*:
 
 ### 1. CSS 
