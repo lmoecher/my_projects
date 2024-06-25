@@ -61,9 +61,9 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 
 * *HTTP Response*
 
-> HTTP/1.1 200 OK   (Here is the version of *HTTP* protocol used, followed by a number which is the Status Code)
-> Date: 25 Jun 2024 01:51   (This is the date and time of the response)
-> Content-Type: text/html   (This shows what type of content the server is sending "text/html")
+> HTTP/1.1 200 OK   (Here is the version of *HTTP* protocol used, followed by a number which is the Status Code)      
+> Date: 25 Jun 2024 01:51   (This is the date and time of the response)   
+> Content-Type: text/html   (This shows what type of content the server is sending "text/html")      
 
 * Below the *HTTP Response* usually shows the html code that respresents the home page of whatever website is in use. In this case it would be the github.com homepage.
 
