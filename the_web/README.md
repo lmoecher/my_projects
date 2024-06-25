@@ -9,4 +9,4 @@ This is the section deisgned to show how *CSS*, *HTML*, and *JavaScript* work to
 
 ##### Ex
 
-* *URL*: (https://www.github.com/lmoecher/my)
+* *URL*: (https://www.github.com/lmoecher/my_projects/blob/master/the_web/README.md)
