@@ -6,18 +6,18 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 ## How it Works
 
 
-#### URL
+### URL
 
 * *URL* is short for Uniform Resource Location and is a way to locate a resource on the internet.
 
-### Example
+#### Example
 
 * *URL*: (https://www.github.com/lmoecher/my_projects/blob/master/the_web/README.md) this is the URL that this  webpage uses. 
 
 * These resources can be Web Pages(HTML documents), Images, Video files, Fonts, etc.
 
 
-#### Client Server Model
+### Client Server Model
 
 * The *Client*(*Browser*) and computers hosting the target website are the *Servers*.
 
@@ -26,7 +26,7 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 * These requests are formatted based on a protocol called *HTTP*.
 
 
-#### HTTP 
+### HTTP 
 
 * *HTTP* is short for *Hypertext Transfer Protocol* and is a langauge that *clients* and *servers* use to talk to each other.
 
@@ -38,7 +38,7 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 
 * The first message is an *HTTP Request* and the second message is an *HTTP Request*.
 
-### Example 1
+#### Example 1
 
 * *HTTP Request* 
 
@@ -48,7 +48,7 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 
 * This message tells the browser what it is looking for.
 
-### Example 2 
+#### Example 2 
 
 * *HTTP Response*
 
