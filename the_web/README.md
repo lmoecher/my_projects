@@ -36,7 +36,7 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 
 * When the *server* figures out what the *client* is asking, it will send a message back.
 
-* The first message is an *HTTP Request* and the second message is an *HTTP Request*
+* The first message is an *HTTP Request* and the second message is an *HTTP Request*.
 
 ### Example 1
 
@@ -52,7 +52,13 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 
 * *HTTP Response*
 
-> HTTP/1.1 200 OK    
-> Date: 25 Jun 2024 01:51    
-> Content-Type: text/html   
+> HTTP/1.1 200 OK   (Here is the version of *HTTP* protocol used, followed by a number which is the Status Code)
+> Date: 25 Jun 2024 01:51   (This is the date and time of the response)
+> Content-Type: text/html   (This shows what type of content the server is sending "text/html")
+
+* Below the *HTTP Response* usually shows the html code that respresents the home page of whatever website is in use. In this case it would be the github.com homepage.
+
+### DOM
+
+* *DOM* or *Documented Object Model* for short, this a model that respresents objects or elements in an *HTML* document.
 
