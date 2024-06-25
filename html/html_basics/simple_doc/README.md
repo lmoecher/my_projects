@@ -13,19 +13,19 @@ This is the section designed to show that I've covered the Basics of *HTML*.
 
 #### Example
 
-![Simple Doc code IMG 1](IMG/simple_doc_img_1.PNG "Simple Doc Code IMG 1")
+![Simple Doc code IMG 1](img/simple_doc_img_1.PNG "Simple Doc Code IMG 1")
 
 * This is what a basic *HTML* document looks like before anything is truly done to it.
 
 #### Output
 
-![Simple Doc code IMG 2](IMG/simple_doc_img_2.PNG "Simple Doc Code IMG 2")
+![Simple Doc code IMG 2](img/simple_doc_img_2.PNG "Simple Doc Code IMG 2")
 
 * This is what appears in the Browser when the *HTML* document is live.
 
 ### HTML Document Example Explained
 
-![Simple Doc code IMG 1](IMG/simple_doc_img_1.PNG "Simple Doc Code IMG 1")
+![Simple Doc code IMG 1](img/simple_doc_img_1.PNG "Simple Doc Code IMG 1")
 
 * The *!DOCTYPE html* declaration defines the document as an *HTML5* document.
 * The *html* element is the root element for an *HTML* page.
