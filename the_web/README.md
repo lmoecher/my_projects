@@ -1,9 +1,18 @@
 # The Web
-This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work together to create the sites we use eahc and everyday.
+This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work together to create the sites we use everyday.
 
 ## Logan Moecher
 
 ## How it Works
+
+### Web Page Building Blocks
+
+##### CSS is for the styling of the web page
+
+##### HTML is for the structuring of the web page
+
+##### JavaScipt is for the funcitonality of the web page
+
 
 
 ### URL
