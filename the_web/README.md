@@ -56,6 +56,3 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 > Date: 25 Jun 2024 01:51    
 > Content-Type: text/html   
 
-> HTTP/1.1 200 OK
-> Date: 25 Jun 2024 01:51
-> Content-Type: text/html
