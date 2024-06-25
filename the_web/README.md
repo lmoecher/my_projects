@@ -34,8 +34,6 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 
 * *HTTPS* which is *HTTP* with encryption. This is so the messages between a *client* and a *server* are encrypted.
 
-* This message tells the browser what it is looking for.
-
 * When the *server* figures out what the *client* is asking, it will send a message back.
 
 * The first message is an *HTTP Request* and the second message is an *HTTP Request*
@@ -48,14 +46,12 @@ This is the section designed to show how *CSS*, *HTML*, and *JavaScript* work to
 > Host: www.github.com  
 > Accept-Language: en-us
 
+* This message tells the browser what it is looking for.
+
 ### Example 2 
 
 * *HTTP Response*
+
 > HTTP/1.1 200 OK
 > Date: 25 Jun 2024 01:51
 > Content-Type: text/html
-
-> <!Doctype html>
-> <html>
-> ...
-> <html>
