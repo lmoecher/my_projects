@@ -67,6 +67,18 @@
 * This is what appears when using an "img file".
 * This can all be restructured and improved visually through *CSS*.
 
+### HTML Document which is slightly enhanced by CSS
+
+### Example
+
+![Simple Doc code IMG 5](img/simple_doc_img_5.PNG "Simple Doc Code IMG 5")
+
+### Output
+
+![Simple Doc code IMG 6](img/simple_doc_img_6.PNG "Simple Doc Code IMG 6")
+
+* *CSS* is used to make it appear as though it is a basic verison of a Tweet. 
+
 #
 
 # Div
