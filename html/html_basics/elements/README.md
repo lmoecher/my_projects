@@ -51,6 +51,10 @@
 
 ![Simple Doc code IMG 3](img/simple_doc_img_3.PNG "Simple Doc Code IMG 3")
 
+#### Output 
+
+![Simple Doc code IMG 4](img/simple_doc_img_4.PNG "Simple Doc Code IMG 4")
+
 * This is what appears when using an "img file".
 * This can all be restructured and improved visually through *CSS*.
 
