@@ -10,8 +10,9 @@
 
 3. Descripiton and Examples of *Empty HTML Elements*
 
+#
 
-### HTML Elements
+## HTML Elements
 
 #### Element Description
 
@@ -40,7 +41,7 @@
 
 ![Simple Doc code IMG 2](img/simple_doc_img_2.PNG "Simple Doc Code IMG 2")
 
-### HTML Document using other Elements
+## HTML Document using other Elements
 
 #### HTML Document Example Explained
 
@@ -59,7 +60,7 @@
 * This is what appears when using an "img file".
 * This can all be restructured and improved visually through *CSS*.
 
-### Div
+## Div
 
 #### Div Description 
 
@@ -79,7 +80,7 @@
 
 #
 
-### HTML Nested Elements
+## HTML Nested Elements
 
 #### Nested Element Description
 
@@ -96,7 +97,7 @@
 
 #
 
-### HTML Empty Elements 
+## HTML Empty Elements 
 
 #### Empty Element Description
 
