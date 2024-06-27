@@ -2,13 +2,14 @@
 
 ## Section Contains:
 
-*Three Parts*:
+*Four Parts*:
 
 1. Description and Examples of *HTML Elements*. 
 
 2. Description and Examples of *Nested HTML Elements*
 
 3. Descripiton and Examples of *Empty HTML Elements*
+
 
 ### HTML Elements
 
@@ -57,6 +58,24 @@
 
 * This is what appears when using an "img file".
 * This can all be restructured and improved visually through *CSS*.
+
+### Div
+
+#### Div Description 
+
+* A "*div*" or *division* is an element used to group content on a webpage for organization. 
+* Acts as a container for the other *HTML* elements, allowing the users to apply styles and layouts of the webpage effectively.
+* A *div* is commonly used for layout structure, styling and theming, and for manipulation through *JavaScript*.
+
+#### Example
+
+![Div Doc code IMG 1](img/div_doc_img_1.PNG "Div Doc code IMG 1")
+
+#### Output
+
+![Div Doc code IMG 2](img/div_doc_img_2.PNG "Div Doc code IMG 2")
+
+* These two paragraphs are group together because of being inside the div. 
 
 ### HTML Nested Elements
 
