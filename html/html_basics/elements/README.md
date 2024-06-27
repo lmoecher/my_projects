@@ -12,7 +12,7 @@
 
 #### This file includes:
 
-* Link to *Constants* code file: [Elements Code](elements_code/index.js "Elements file")
+* Link to *Constants* code file: [Elements Code](elements_code/index.html "Elements file")
 * Screenshots of the *HTML* file.
 
 #
