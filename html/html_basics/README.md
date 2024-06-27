@@ -9,9 +9,9 @@ This is the section designed to show that I've covered the Basics of *HTML*.
 
 *Links to different sections:*
 
-1. [Simple *HTML* Document](simple_doc/README.md "Simple Doc README.md file")
+1. [Elements](elements/README.md "Elements README.md file")
 
-2. [Elements](elements/README.md "Elements README.md file")
+2.
 
 3.
 
