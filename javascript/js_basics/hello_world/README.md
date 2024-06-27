@@ -13,6 +13,8 @@
 * Link to *Hello World* code file: [Hello World](hello_world_code/index.js "Hello World file")
 * Screenshots of the *Hello World* application running
 
+#
+
 # Hello World application
 
 ##### This image shows the *Hello World* code that creates and runs the application 
@@ -23,7 +25,7 @@
 
 ![HTML code IMG 1](img/hello_world_img_2.PNG "HTML code IMG 1")
 
-## Hello World Application Running
+# Hello World Application Running
 
 ##### This image shows the *Hello World* application running in the Browser Console
 

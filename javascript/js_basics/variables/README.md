@@ -12,6 +12,8 @@
 * Link to the *Variables* file: [Variables](variables_code/index.js "Variable code file")
 * Screenshots of each *Variable* application and the output.
 
+#
+
 ##### *HTML* code that was used for these applications
 
 ![HTML Code IMG 1](img/html_code_img_1.PNG "HTML CODE IMG 1")

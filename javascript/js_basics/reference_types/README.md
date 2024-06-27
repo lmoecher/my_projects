@@ -14,6 +14,8 @@
 * Link to the * Reference Types* file: [Reference Types](reference_types_code/index.js "Reference Types")
 * Screenshots of each *Reference Type* application and the output.
 
+#
+
 ##### *HTML* code that was used for these applications
 
 ![HTML Code IMG 1](img/html_code_img_1.PNG "HTML CODE IMG 1")
@@ -26,7 +28,7 @@
 > * Function
 > * Object
 
-
+#
 
 # Array
 
@@ -47,6 +49,8 @@
 ##### *Array* application running in the Command Prompt
 
 ![Array IMG 3](img/array_code_img_3.PNG "Array IMG 3")
+
+#
 
 # Function
 
@@ -101,7 +105,7 @@
 
 ![Function IMG 9](img/function_code_img_9.PNG "Function IMG 9")
 
-
+#
 
 # Objects 
 

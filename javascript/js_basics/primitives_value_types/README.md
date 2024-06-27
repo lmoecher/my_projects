@@ -18,6 +18,8 @@
 * Link to the *Primitives* / *Value Types* file: [Primitives / Value Types](primitives_value_types_code/index.js "Primitives / Value Types file")
 * Screenshots of each *Value Type* application and the output
 
+#
+
 ##### *HTML* code that was used for these application
 
 ![HTML code IMG 1](img/value_types_img_2.PNG "HTML code IMG 1")
@@ -52,6 +54,7 @@
 
 ![String IMG 3](img/strings_img_3.PNG "String IMG 3")
 
+#
 
 # Number 
 
@@ -71,7 +74,7 @@
 
 ![Number IMG 3](img/numbers_img_3.PNG "Number IMG 3")
 
-
+#
 
 # Boolean
 
@@ -91,7 +94,7 @@
 
 ![Boolean IMG 3](img/boolean_img_3.PNG "Boolean IMG 3")
 
-
+#
 
 # Undefined
 
@@ -111,7 +114,7 @@
 
 ![Undefined IMG 3](img/undefined_img_3.PNG "Undefined IMG 3")
 
-
+#
 
 # Null
 
@@ -131,7 +134,7 @@
 
 ![Null IMG 3](img/null_img_3.PNG "Null IMG 3")
 
-
+#
 
 # BigInt
 
@@ -151,7 +154,7 @@
 
 ![BigInt IMG 3](img/bigint_img_3.PNG "BigInt IMG 3")
 
-
+#
 
 # Symbol
 
