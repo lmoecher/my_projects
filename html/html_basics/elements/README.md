@@ -99,7 +99,17 @@
 
 * These two paragraphs are group together because of being inside the div. 
 
-#
+### Centering a Div
+
+* If a "*div*" is not 100% wide and want it centered. Set the CSS property *margin* to *auto*
+
+### Example
+
+![Div Doc code IMG 3](img/div_doc_img_3.PNG "Div Doc code IMG 3")
+
+### Output
+
+![Div Doc code IMG 4](img/div_doc_img_4.PNG "Div Doc code IMG 4")
 
 # HTML Nested Elements
 

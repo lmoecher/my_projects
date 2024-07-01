@@ -11,10 +11,10 @@ This is the section designed to show that I've covered the Basics of *HTML*.
 
 1. [Elements](elements/README.md "Elements README.md file")
 
-2.
+2. [Attributes](attributes/README.md "Attributes README.md file")
 
-3.
+3. [Formatting](formatting/README.md "Formatting README.md file")
 
-4.
+4. [Quoting](quotes/README.md "Quotes README.md file")
 
-5.
+5. 
