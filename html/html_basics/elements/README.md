@@ -111,6 +111,38 @@
 
 ![Div Doc code IMG 4](img/div_doc_img_4.PNG "Div Doc code IMG 4")
 
+### Aligning a Div
+
+* The most common way to align a *div* is to use the *float* property.
+* The *float* property is used for positioning and formatting content.
+* This shows each conatainer next to each other, rather than being stacked.
+* The *flex* property can also be used, which makes it easier to design a responsive layout without using float.
+* The *grid* property is one more that can be used instead. This designs the container with a grid, and the width of each column needs to be inputed.  
+
+### Example using Float
+
+![Div Doc code IMG 5](img/div_doc_img_5.PNG "Div Doc code IMG 5")
+
+### Output
+
+![Div Doc code IMG 6](img/div_doc_img_6.PNG "Div Doc code IMG 6")
+
+### Example using Flex
+
+![Div Doc code IMG 7](img/div_doc_img_7.PNG "Div Doc code IMG 7")
+
+### Output
+
+![Div Doc code IMG 8](img/div_doc_img_8.PNG "Div Doc code IMG 8")
+
+### Example using Grid
+
+![Div Doc code IMG 9](img/div_doc_img_9.PNG "Div Doc code IMG 9")
+
+### Output
+
+![Div Doc code IMG 10](img/div_doc_img_10.PNG "Div Doc code IMG 10")
+
 # HTML Nested Elements
 
 ## Nested Element Description
@@ -124,7 +156,7 @@
 
 * This example contains six elements (html, head, title, body, h1, and p1).
 * "html" is the root element which defines the entire HTML document. 
-*  An "end tag" is needed on each for it to be displayed correctly
+*  An "end tag" is needed on each for it to be displayed correctly.
 
 #
 
