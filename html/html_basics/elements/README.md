@@ -2,22 +2,22 @@
 
 ## Section Contains:
 
-*Three Parts*:
+*Four Parts*:
 
 1. Description and Examples of *HTML Elements*.
 
-2. Description and Examples of *Nested HTML Elements*
+2. Description and Examples of the *Div Element*.
 
-3. Descripiton and Examples of *Empty HTML Elements*
+3. Description and Examples of *Nested HTML Elements*.
+
+4. Descripiton and Examples of *Empty HTML Elements*.
 
 #### This file includes:
 
-* Link to *Constants* code file: [Elements Code](elements_code/index.html "Elements file")
+* Link to *Elements* code file: [Elements Code](elements_code/index.html "Elements file")
 * Screenshots of the *HTML* file.
 
 #
-
-# HTML Elements
 
 ## Element Description
 
