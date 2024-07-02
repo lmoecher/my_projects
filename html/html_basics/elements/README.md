@@ -99,7 +99,7 @@
 
 * These two paragraphs are group together because of being inside the div. 
 
-### Centering a Div
+## Centering a Div
 
 * If a "*div*" is not 100% wide and want it centered. Set the CSS property *margin* to *auto*
 
@@ -111,7 +111,7 @@
 
 ![Div Doc code IMG 4](img/div_doc_img_4.PNG "Div Doc code IMG 4")
 
-### Aligning a Div
+## Aligning a Div
 
 * The most common way to align a *div* is to use the *float* property.
 * The *float* property is used for positioning and formatting content.
@@ -127,6 +127,8 @@
 
 ![Div Doc code IMG 6](img/div_doc_img_6.PNG "Div Doc code IMG 6")
 
+#
+
 ### Example using Flex
 
 ![Div Doc code IMG 7](img/div_doc_img_7.PNG "Div Doc code IMG 7")
@@ -134,6 +136,8 @@
 ### Output
 
 ![Div Doc code IMG 8](img/div_doc_img_8.PNG "Div Doc code IMG 8")
+
+#
 
 ### Example using Grid
 
