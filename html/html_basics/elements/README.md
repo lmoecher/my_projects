@@ -119,7 +119,7 @@
 * The *flex* property can also be used, which makes it easier to design a responsive layout without using float.
 * The *grid* property is one more that can be used instead. This designs the container with a grid, and the width of each column needs to be inputed.  
 
-### Example using Float
+### Example using Float Property
 
 ![Div Doc code IMG 5](img/div_doc_img_5.PNG "Div Doc code IMG 5")
 
@@ -129,7 +129,7 @@
 
 #
 
-### Example using Flex
+### Example using Flex Property
 
 ![Div Doc code IMG 7](img/div_doc_img_7.PNG "Div Doc code IMG 7")
 
@@ -139,7 +139,7 @@
 
 #
 
-### Example using Grid
+### Example using Grid Property
 
 ![Div Doc code IMG 9](img/div_doc_img_9.PNG "Div Doc code IMG 9")
 
