@@ -2,13 +2,12 @@
 
 ## Section Contains:
 
-*? Parts*:
+*Two Parts*:
 
-1. 
+1. Description and Example of *HTML Attributes*
 
-2. 
+2. Descriptions and Examples of different types of *Attributes*
 
-3. 
 
 #### This file includes:
 
@@ -24,3 +23,47 @@
 * *Attributes* are always specified in the *start tag*.
 * They usually are written in pairs "name/value": name="value".
 
+### Example
+
+![Attribute code IMG 1](img/attributes_code_img_1.PNG "Attribute code IMG 1")
+
+* This is the same code used in the *Element* section
+
+### Output
+
+![Attribute code IMG 2](img/attributes_code_img_2.PNG "Attribute code IMG 2")
+
+#
+
+## Different Attributes and their Descriptions
+
+1. *src*
+2. *href*
+3. *alt*
+4. *style*
+5. *lang*
+6. *title*
+
+#
+
+## SRC Attribute
+
+#
+
+## HREF Attribute
+
+#
+
+## ALT Attribute
+
+#
+
+## STYLE Attribute
+
+#
+
+## LANG Attribute
+
+#
+
+## TITLE Attribute
