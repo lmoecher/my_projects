@@ -51,7 +51,7 @@
 
 ### Example
 
-[SRC Attribute IMG 3](img/attributes_code_img_3.PNG "SRC Attribute IMG 3")
+![SRC Attribute IMG 3](img/attributes_code_img_3.PNG "SRC Attribute IMG 3")
 
 ### Output
 
@@ -61,7 +61,7 @@
 
 ### Example
 
-[HREF Attribute IMG 5](img/attributes_code_img_5.PNG "HREF Attribute IMG 5")
+![HREF Attribute IMG 5](img/attributes_code_img_5.PNG "HREF Attribute IMG 5")
 
 ### Output
 
@@ -71,7 +71,7 @@
 
 ### Example
 
-[Width & Height Attribute IMG 7](img/attributes_code_img_7.PNG "Width & Height Attribute IMG 7")
+![Width & Height Attribute IMG 7](img/attributes_code_img_7.PNG "Width & Height Attribute IMG 7")
 
 ### Output
 
@@ -81,7 +81,7 @@
 
 ### Example
 
-[ALT Attribute IMG 9](img/attributes_code_img_9.PNG "SRC Attribute IMG 9")
+![ALT Attribute IMG 9](img/attributes_code_img_9.PNG "SRC Attribute IMG 9")
 
 ### Output
 
@@ -91,7 +91,7 @@
 
 ### Example
 
-[STYLE Attribute IMG 11](img/attributes_code_img_11.PNG "SRC Attribute IMG 11")
+![STYLE Attribute IMG 11](img/attributes_code_img_11.PNG "SRC Attribute IMG 11")
 
 ### Output
 
@@ -101,7 +101,7 @@
 
 ### Example
 
-[LANG Attribute IMG 13](img/attributes_code_img_13.PNG "SRC Attribute IMG 13")
+![LANG Attribute IMG 13](img/attributes_code_img_13.PNG "SRC Attribute IMG 13")
 
 ### Output
 
@@ -111,6 +111,6 @@
 
 ### Example
 
-[TITLE Attribute IMG 15](img/attributes_code_img_15.PNG "SRC Attribute IMG 15")
+![TITLE Attribute IMG 15](img/attributes_code_img_15.PNG "SRC Attribute IMG 15")
 
 ### Output
