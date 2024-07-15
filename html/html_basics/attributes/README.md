@@ -55,6 +55,8 @@
 
 ### Output
 
+![SRC Attribute IMG 4](img/attributes_code_img_4.PNG "SRC Attribute IMG 4")
+
 #
 
 ## HREF Attribute
@@ -64,6 +66,8 @@
 ![HREF Attribute IMG 5](img/attributes_code_img_5.PNG "HREF Attribute IMG 5")
 
 ### Output
+
+![HREF Attribute IMG 6](img/attributes_code_img_6.PNG "SRC Attribute IMG 6")
 
 #
 
@@ -75,6 +79,8 @@
 
 ### Output
 
+![Width & Height Attribute IMG 8](img/attributes_code_img_8.PNG "Width & Height Attribute IMG 8")
+
 #
 
 ## ALT Attribute
@@ -84,6 +90,8 @@
 ![ALT Attribute IMG 9](img/attributes_code_img_9.PNG "SRC Attribute IMG 9")
 
 ### Output
+
+![ALT Attribute IMG 10](img/attributes_code_img_10.PNG "SRC Attribute IMG 10")
 
 #
 
@@ -95,6 +103,8 @@
 
 ### Output
 
+![STYLE Attribute IMG 12](img/attributes_code_img_12.PNG "SRC Attribute IMG 12")
+
 #
 
 ## LANG Attribute
@@ -105,6 +115,8 @@
 
 ### Output
 
+![LANG Attribute IMG 14](img/attributes_code_img_14.PNG "SRC Attribute IMG 14")
+
 #
 
 ## TITLE Attribute
@@ -114,3 +126,5 @@
 ![TITLE Attribute IMG 15](img/attributes_code_img_15.PNG "SRC Attribute IMG 15")
 
 ### Output
+
+![TITLE Attribute IMG 16](img/attributes_code_img_16.PNG "SRC Attribute IMG 16")
