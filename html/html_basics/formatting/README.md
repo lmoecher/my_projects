@@ -39,7 +39,11 @@
 
 ### Example
 
+![Formatting code IMG 1](img/formatting_code_img_1.PNG "Formatting code IMG 1")
+
 ### Output
+
+![Formatting code IMG 2](img/formatting_code_img_2.PNG "Formatting code IMG 2")
 
 #
 
@@ -47,7 +51,13 @@
 
 ### Example
 
+![Formatting code IMG 3](img/formatting_code_img_3.PNG "Formatting code IMG 3")
+
 ### Output
+
+![Formatting code IMG 4](img/formatting_code_img_4.PNG "Formatting code IMG 4")
+
+* The Bold and Strong elements are very similar with how they look.
 
 #
 
@@ -55,7 +65,11 @@
 
 ### Example
 
+![Formatting code IMG 5](img/formatting_code_img_5.PNG "Formatting code IMG 5")
+
 ### Output
+
+![Formatting code IMG 6](img/formatting_code_img_6.PNG "Formatting code IMG 6")
 
 #
 
@@ -63,7 +77,13 @@
 
 ### Example
 
+![Formatting code IMG 7](img/formatting_code_img_7.PNG "Formatting code IMG 7")
+
 ### Output
+
+![Formatting code IMG 8](img/formatting_code_img_8.PNG "Formatting code IMG 8")
+
+* The Italics and Emphasize elements are very similar how they look.
 
 #
 
@@ -71,7 +91,11 @@
 
 ### Example
 
+![Formatting code IMG 9](img/formatting_code_img_9.PNG "Formatting code IMG 9")
+
 ### Output
+
+![Formatting code IMG 10](img/formatting_code_img_10.PNG "Formatting code IMG 10")
 
 #
 
@@ -79,7 +103,11 @@
 
 ### Example
 
+![Formatting code IMG 11](img/formatting_code_img_11.PNG "Formatting code IMG 11")
+
 ### Output
+
+![Formatting code IMG 12](img/formatting_code_img_12.PNG "Formatting code IMG 12")
 
 #
 
@@ -87,7 +115,11 @@
 
 ### Example
 
+![Formatting code IMG 13](img/formatting_code_img_13.PNG "Formatting code IMG 13")
+
 ### Output
+
+![Formatting code IMG 14](img/formatting_code_img_14.PNG "Formatting code IMG 14")
 
 #
 
@@ -95,7 +127,11 @@
 
 ### Example
 
+![Formatting code IMG 15](img/formatting_code_img_15.PNG "Formatting code IMG 15")
+
 ### Output
+
+![Formatting code IMG 16](img/formatting_code_img_16.PNG "Formatting code IMG 16")
 
 #
 
@@ -103,7 +139,11 @@
 
 ### Example
 
+![Formatting code IMG 17](img/formatting_code_img_17.PNG "Formatting code IMG 17")
+
 ### Output
+
+![Formatting code IMG 18](img/formatting_code_img_18.PNG "Formatting code IMG 18")
 
 #
 
@@ -111,6 +151,10 @@
 
 ### Example
 
+![Formatting code IMG 19](img/formatting_code_img_19.PNG "Formatting code IMG 19")
+
 ### Output
 
-#
+![Formatting code IMG 20](img/formatting_code_img_20.PNG "Formatting code IMG 20")
+
+
