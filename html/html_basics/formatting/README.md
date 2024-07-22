@@ -83,7 +83,7 @@
 
 ![Formatting code IMG 8](img/formatting_code_img_8.PNG "Formatting code IMG 8")
 
-* The Italics and Emphasize elements are very similar how they look.
+* The Italics and Emphasize elements are also very similar with how they look.
 
 #
 
