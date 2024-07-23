@@ -37,6 +37,8 @@
 
 ## Bold Text
 
+* "*b*" - Bold text
+
 ### Example
 
 ![Formatting code IMG 1](img/formatting_code_img_1.PNG "Formatting code IMG 1")
@@ -48,6 +50,8 @@
 #
 
 ## Strong Text
+
+* "*strong*" - Important text
 
 ### Example
 
@@ -63,6 +67,8 @@
 
 ## Italic Text
 
+* "*i*" - Italic text
+
 ### Example
 
 ![Formatting code IMG 5](img/formatting_code_img_5.PNG "Formatting code IMG 5")
@@ -74,6 +80,8 @@
 #
 
 ## Emphasized Text
+
+* "*em*" - Emphasized text
 
 ### Example
 
@@ -89,6 +97,8 @@
 
 ## Marked Text
 
+* "*mark*" - Marked text
+
 ### Example
 
 ![Formatting code IMG 9](img/formatting_code_img_9.PNG "Formatting code IMG 9")
@@ -100,6 +110,8 @@
 #
 
 ## Smaller Text
+
+* "*small*" - Smaller text
 
 ### Example
 
@@ -113,6 +125,8 @@
 
 ## Deleted Text
 
+* "*del*" - Deleted text
+
 ### Example
 
 ![Formatting code IMG 13](img/formatting_code_img_13.PNG "Formatting code IMG 13")
@@ -124,6 +138,8 @@
 #
 
 ## Inserted Text
+
+* "*ins*" - Inserted text
 
 ### Example
 
@@ -137,6 +153,8 @@
 
 ## Subscript Text
 
+* "*sub*" - Subscript text
+
 ### Example
 
 ![Formatting code IMG 17](img/formatting_code_img_17.PNG "Formatting code IMG 17")
@@ -148,6 +166,8 @@
 #
 
 ## Superscript Text
+
+* "*sup*" - Superscript text
 
 ### Example
 
