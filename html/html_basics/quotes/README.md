@@ -25,7 +25,8 @@
 * *blockquotes* - Used for longer quotation, typically displayed as a block of text indented from the main content.
 * *q* - Used for short inline quotations within a paragraph. 
 * *cite* - Used to refernce the source of a quote or piece of content. This is often used within a "*blockquote*" or "*q*" tags to provide citations.
-* *abbr* - Used to define abbreviations or acronyms. The "*Title*" attribute is used to provide th efull meaning. 
+* *abbr* - Used to define abbreviations or acronyms. The "*Title*" attribute is used to provide the full meaning.
+* *address* - Used to define contact information for an owner/author of an article or document.  
 * *bdo* - stands for "*Bi-Directional Override*" Used to override the current text direction.
 
 #
@@ -33,6 +34,7 @@
 ## Blockquotes
 
 * *blockquotes* - Used for longer quotation, typically displayed as a block of text indented from the main content.
+* The Browser will usually indent the *blockquote* element
 
 ### Example
 
@@ -47,6 +49,7 @@
 ## Quotes "short"
 
 * *q* - Used for short inline quotations within a paragraph.
+* Browsers tend to inert quotations around the *q* element
 
 ### Example
 
@@ -61,6 +64,7 @@
 ## Citations
 
 * *cite* - Used to refernce the source of a quote or piece of content. This is often used within a "*blockquote*" or "*q*" tags to provide citations.
+* The text inside the *cite* element is render in italic. 
 
 ### Example
 
@@ -74,7 +78,8 @@
 
 ## Abbreviations
 
-* *abbr* - Used to define abbreviations or acronyms. The "*Title*" attribute is used to provide th efull meaning. 
+* *abbr* - Used to define abbreviations or acronyms. The "*Title*" attribute is used to provide the full meaning. 
+* They give useful information to browsers, search-engines and translation systems. 
 
 ### Example
 
@@ -88,7 +93,7 @@
 
 ## Address
 
-* *address* - Used to define contact information for an owner/author of an article or doucment. 
+* *address* - Used to define contact information for an owner/author of an article or document. 
 * This can be a phone number, email address, URL, physical address, social media handle, etc. 
 * The text inside the element for *address* usually is shown in italic, and in the browser the line will break before and after an *address* element.  
 
