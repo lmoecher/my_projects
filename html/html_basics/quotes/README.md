@@ -99,11 +99,11 @@
 
 ### Example
 
-![Quotes code IMG 7](img/quotes_code_img_7.PNG "Quotes code IMG 7")
+![Quotes code IMG 9](img/quotes_code_img_9.PNG "Quotes code IMG 9")
 
 ### Output
 
-![Quotes code IMG 8](img/quotes_code_img_8.PNG "Quotes code IMG 8")
+![Quotes code IMG 10](img/quotes_code_img_10.PNG "Quotes code IMG 10")
 
 #
 
@@ -113,11 +113,11 @@
 
 ### Example
 
-![Quotes code IMG 9](img/quotes_code_img_9.PNG "Quotes code IMG 9")
+![Quotes code IMG 11](img/quotes_code_img_11.PNG "Quotes code IMG 11")
 
 ### Output
 
-![Quotes code IMG 10](img/quotes_code_img_10.PNG "Quotes code IMG 10")
+![Quotes code IMG 12](img/quotes_code_img_12.PNG "Quotes code IMG 12")
 
 #
 
