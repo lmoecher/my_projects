@@ -86,6 +86,22 @@
 
 #
 
+## Address
+
+* *address* - Used to define contact information for an owner/author of an article or doucment. 
+* This can be a phone number, email address, URL, physical address, social media handle, etc. 
+* The text inside the element for *address* usually is shown in italic, and in the browser the line will break before and after an *address* element.  
+
+### Example
+
+![Quotes code IMG 7](img/quotes_code_img_7.PNG "Quotes code IMG 7")
+
+### Output
+
+![Quotes code IMG 8](img/quotes_code_img_8.PNG "Quotes code IMG 8")
+
+#
+
 ## Bi-Directional Override
 
 * *bdo* - stands for "*Bi-Directional Override*" Used to override the current text direction.
