@@ -36,7 +36,11 @@
 
 ### Example
 
+![Quotes code IMG 1](img/quotes_code_img_1.PNG "Quotes code IMG 1")
+
 ### Output
+
+![Quotes code IMG 2](img/quotes_code_img_2.PNG "Quotes code IMG 2")
 
 #
 
@@ -46,7 +50,11 @@
 
 ### Example
 
+![Quotes code IMG 3](img/quotes_code_img_3.PNG "Quotes code IMG 3")
+
 ### Output
+
+![Quotes code IMG 4](img/quotes_code_img_4.PNG "Quotes code IMG 4")
 
 #
 
@@ -56,7 +64,11 @@
 
 ### Example
 
+![Quotes code IMG 5](img/quotes_code_img_5.PNG "Quotes code IMG 5")
+
 ### Output
+
+![Quotes code IMG 6](img/quotes_code_img_6.PNG "Quotes code IMG 6")
 
 #
 
@@ -66,9 +78,13 @@
 
 ### Example
 
-### Output 
+![Quotes code IMG 7](img/quotes_code_img_7.PNG "Quotes code IMG 7")
 
-# 
+### Output
+
+![Quotes code IMG 8](img/quotes_code_img_8.PNG "Quotes code IMG 8")
+
+#
 
 ## Bi-Directional Override
 
@@ -76,10 +92,13 @@
 
 ### Example
 
+![Quotes code IMG 9](img/quotes_code_img_9.PNG "Quotes code IMG 9")
+
 ### Output
 
-#
+![Quotes code IMG 10](img/quotes_code_img_10.PNG "Quotes code IMG 10")
 
+#
 
 
 
