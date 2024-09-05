@@ -8,5 +8,5 @@ This section is designated to showing my work done in JavaScript
 
 *Project Links:*
 
-1. 
+### 1. [Calculator](p1_calculator/README.md "Calculator README.md file")
 
