@@ -2,6 +2,7 @@ let currentOperation = "";
 let storedNumber = null;
 let currentOperator = null;
 let currentOperatorButton = null;
+let readyForNewInput = false;
 
     function toggleSign() {
         let currentValue = document.getElementById('display').value;
@@ -26,19 +27,17 @@ let currentOperatorButton = null;
         let clearBtn = document.getElementById('clearBtn');
 
         if (clearBtn.value === "AC") {
-            display.value = "";
+            display.value = "0";
             currentOperation = "";
             storedNumber = null;
             currentOperator = null;
+            readyForNewInput = false;
 
             if (currentOperatorButton) {
                 currentOperatorButton.classList.remove('active');
                 currentOperatorButton = null;
             }
-        } else if (clearBtn.value === "C") {
-            display.value = display.value.slice(0,-1);
-        }
-
+        } 
         updateClearButton();
     }
 
@@ -46,22 +45,22 @@ let currentOperatorButton = null;
         let display = document.getElementById('display');
         let clearBtn = document.getElementById('clearBtn');
 
-        if (display.value === "") {
+        if (display.value === "0" || display.value === "") {
             clearBtn.value = "AC";
-        } else {
-            clearBtn.value = "C";
-        }
+        } 
     }
 
     function handleNumberInput(value) {
         let display = document.getElementById('display');
-        let currentValue = display.value;
 
-        if (currentOperator === null && storedNumber !== null) {
-            display.value = '';
+        if (readyForNewInput || display.value === "0") {
+            display.value = value;
+            readyForNewInput = false;
+        } else {
+            display.value += value;
         }
-        display.value += value;
     }
+
 
     function handleOperator(operator, button) {
         let display = document.getElementById('display');
@@ -73,7 +72,7 @@ let currentOperatorButton = null;
         
         storedNumber = parseFloat(display.value) || storedNumber;
         currentOperator = operator;
-        display.value = '';
+        readyForNewInput = true;
     
         if (currentOperatorButton) {
             currentOperatorButton.classList.remove('active');
@@ -85,6 +84,10 @@ let currentOperatorButton = null;
     function calculateResult() {
         let display = document.getElementById('display');
         let currentValue = parseFloat(display.value);
+
+        if (!currentValue && storedNumber !== null) {
+            currentValue = storedNumber;
+        }
         
         if (storedNumber !== null && currentOperator) {
             let result;
@@ -106,6 +109,8 @@ let currentOperatorButton = null;
             }
         
             display.value = result;
+            readyForNewInput = true;
+
             storedNumber = null;
             currentOperator = null;
 
@@ -116,6 +121,12 @@ let currentOperatorButton = null;
         }
     }
     
-    window.onload = updateClearButton;
+    window.onload = function() {
+        let display = document.getElementById('display');
+        display.value = '0';
+        updateClearButton();
+    };
 
-    document.getElementById('display').addEventListener('input', updateClearButton);
+        document.getElementById('display').addEventListener('input', updateClearButton);
+
+        
