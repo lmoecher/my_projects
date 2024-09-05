@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="calculator">
+            <form>
+                <div class="display">
+                    <input type="text" name="display" id="display">
+                </div>
+                <div>
+                    <input type="button" value="AC" id="clearBtn" onclick="handleClear()" class="top-operator">
+                    <input type="button" value="+/-" onclick="toggleSign()" class="top-operator">
+                    <input type="button" value="%" onclick="calculatePercentage()" class="top-operator">
+                    <input type="button" value="/" onclick="handleOperator('/', this)" class="operator">
+                </div>
+                <div>
+                    <input type="button" value="7" onclick="handleNumberInput('7')" class="number">
+                    <input type="button" value="8" onclick="handleNumberInput('8')" class="number">
+                    <input type="button" value="9" onclick="handleNumberInput('9')" class="number">
+                    <input type="button" value="*" onclick="handleOperator('*', this)" class="operator">
+                </div>
+                <div>
+                    <input type="button" value="4" onclick="handleNumberInput('4')" class="number">
+                    <input type="button" value="5" onclick="handleNumberInput('5')" class="number">
+                    <input type="button" value="6" onclick="handleNumberInput('6')" class="number">
+                    <input type="button" value="-" onclick="handleOperator('-', this)" class="operator">
+                </div>
+                <div>
+                    <input type="button" value="1" onclick="handleNumberInput('1')" class="number">
+                    <input type="button" value="2" onclick="handleNumberInput('2')" class="number">
+                    <input type="button" value="3" onclick="handleNumberInput('3')" class="number">
+                    <input type="button" value="+" onclick="handleOperator('+', this)" class="operator">
+                </div>
+                <div>
+                    <input type="button" value="0" onclick="display.value += '0' " class="number">
+                    <input type="button" value="." onclick="display.value += '.' " class="number">
+                    <input type="button" value="=" onclick="calculateResult()" class="equal operator">
+                
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="function.js"></script>
+</body>
+</html>
