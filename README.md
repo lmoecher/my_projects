@@ -7,7 +7,7 @@ This is a repository designated to showing me work done using different coding L
 
 *Coding Language Links*:
 
-## Front End Development:
+## Front-End Development:
 
 ### 1. [CSS](css/README.md "CSS README.md file")
 
@@ -15,7 +15,7 @@ This is a repository designated to showing me work done using different coding L
 
 ### 3. [JavaScript](javascript/README.md "JavaScript README.md file")
 
-## Back End Development
+## Back-End Development
 
 ### 1. [Python](python/README.md "Python README.md file")
 
