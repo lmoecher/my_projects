@@ -6,7 +6,7 @@
 
 1. Description
 
-2. Screenshots
+2. Screenshots with descripitons for each
 
 #### Link to the files
 
