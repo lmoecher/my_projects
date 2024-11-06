@@ -25,10 +25,10 @@
 ### Example 1
 
 * Highlighted operator buttons show that they are in use.
-1. Addition 
-2. Subtraction 
-3. Multiplication 
-4. Division
+1. *Addition* 
+2. *Subtraction* 
+3. *Multiplication* 
+4. *Division*
 
 <div style="display: flex; gap: 10px;">
     <img src="img/p2_calculator.PNG" alt="Addition" title="Addition" width="200">
