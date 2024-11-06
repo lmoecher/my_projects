@@ -18,9 +18,9 @@
 
 * I created a JavaScript-powered calculator with an intuitive, responsive UI for basic arithmetic operations. It uses event listeners and DOM manipulation to provide smooth, instant feedback on user actions. The code is modular, ensuring readability and easy maintenance, while the design keeps the interface clean and accessible for a seamless user experience.
 
-<img src="img/p1_calculator.PNG" alt="Calculator IMG 1" title="Calculator IMG 1" width="300" height="auto">
+<img src="img/p1_calculator.PNG" alt="Calculator IMG 1" title="Calculator" width="300" height="auto">
 
-## Descritiptions of Calclulator Functionality 
+## Descritiptions of Calculator Functionality 
 
 ### Highlighted Operator Buttons
 
