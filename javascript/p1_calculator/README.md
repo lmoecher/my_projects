@@ -46,6 +46,8 @@
 
 #### Ex. 2 Calculator using *Subtraction*
 
+* 99 - 66 = 33
+
 <div style="display: flex; gap: 10px;">
     <img src="img/subtraction_1.PNG" alt="99" title="99" width="200">
     <img src="img/subtraction_2.PNG" alt="66" title="66" width="200">
@@ -56,6 +58,8 @@
 
 #### Ex. 3 Calculator using *Multiplication*
 
+* 11 x 3 = 33
+
 <div style="display: flex; gap: 10px;">
     <img src="img/multiplication_1.PNG" alt="11" title="11" width="200">
     <img src="img/multiplication_2.PNG" alt="3" title="3" width="200">
@@ -65,6 +69,8 @@
 #
 
 #### Ex. 4 Calculator using *Division*
+
+* 99 ÷ 3 = 33
 
 <div style="display: flex; gap: 10px;">
     <img src="img/division_1.PNG" alt="99" title="99" width="200">
