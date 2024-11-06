@@ -31,22 +31,10 @@
 4. Division
 
 <div style="display: flex; gap: 10px;">
-  <figure style="text-align: center;">
-    <img src="img/p2_calculator.PNG" alt="Addition" title="Calculator IMG 2" width="200">
-    <figcaption>Calculator IMG 2</figcaption>
-  </figure>
-  <figure style="text-align: center;">
-    <img src="img/p3_calculator.PNG" alt="Subtraction" title="Calculator IMG 3" width="200">
-    <figcaption>Calculator IMG 3</figcaption>
-  </figure>
-  <figure style="text-align: center;">
-    <img src="img/p4_calculator.PNG" alt="Multiplication" title="Calculator IMG 4" width="200">
-    <figcaption>Calculator IMG 4</figcaption>
-  </figure>
-  <figure style="text-align: center;">
-    <img src="img/p5_calculator.PNG" alt="Division" title="Calculator IMG 5" width="200">
-    <figcaption>Calculator IMG 5</figcaption>
-  </figure>
+    <img src="img/p2_calculator.PNG" alt="Addition" title="Addition" width="200">
+    <img src="img/p3_calculator.PNG" alt="Subtraction" title="Subtraction" width="200">
+    <img src="img/p4_calculator.PNG" alt="Multiplication" title="Multiplication" width="200">
+    <img src="img/p5_calculator.PNG" alt="Division" title="Division" width="200">
 </div>
 
 
