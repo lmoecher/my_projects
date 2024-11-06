@@ -6,7 +6,7 @@
 
 1. Project description
 
-2. Screenshots with descripitons for each
+2. Examples of calculator functionality with screenshots
 
 #### Link to the files
 
@@ -90,6 +90,8 @@
 
 #### Ex. 1
 ### Calculator using the "+/-" button
+
+* -33 + 66 = 33
 
 <div style="display: flex; gap: 10px;">
     <img src="img/pos_neg_1.PNG" alt="-33" title="-33" width="200">
