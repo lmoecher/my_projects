@@ -29,19 +29,19 @@
 
 <div style="display: flex; gap: 10px;">
   <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 5px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">1.</figcaption>
+    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">1.</figcaption>
     <img src="img/p2_calculator.PNG" alt="Calculator IMG 2" title="1." width="200">
   </figure>
   <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 5px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">2.</figcaption>
+    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">2.</figcaption>
     <img src="img/p3_calculator.PNG" alt="Calculator IMG 3" title="2." width="200">
   </figure>
   <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 5px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">3.</figcaption>
+    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">3.</figcaption>
     <img src="img/p4_calculator.PNG" alt="Calculator IMG 4" title="3." width="200">
   </figure>
   <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 5px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">4.</figcaption>
+    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">4.</figcaption>
     <img src="img/p5_calculator.PNG" alt="Calculator IMG 5" title="4." width="200">
   </figure>
 </div>
