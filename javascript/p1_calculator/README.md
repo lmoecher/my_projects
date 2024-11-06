@@ -20,16 +20,17 @@
 
 <img src="img/p1_calculator.PNG" alt="Calculator IMG 1" title="Calculator IMG 1" width="300" height="auto">
 
-## Calculator in use Screenshots
+## Descritiptions of Calclulator Functionality 
 
-### Example 1
+### Highlighted Operator Buttons
 
-* Highlighted operator buttons show that they are in use.
+* Highlighted operator buttons show the user which operator button is in use. 
 1. *Addition* 
 2. *Subtraction* 
 3. *Multiplication* 
 4. *Division*
 
+#### Ex. 1
 <div style="display: flex; gap: 10px;">
     <img src="img/p2_calculator.PNG" alt="Addition" title="Addition" width="200">
     <img src="img/p3_calculator.PNG" alt="Subtraction" title="Subtraction" width="200">
