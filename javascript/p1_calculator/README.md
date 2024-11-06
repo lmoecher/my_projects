@@ -33,4 +33,4 @@
     <img src="img/p5_calculator.PNG" alt="Calculator IMG 5" title="Calculator IMG 5" width="200">
 </div>
 
-
+* Addition         * Subtraction         *  Multiplication         * Division
