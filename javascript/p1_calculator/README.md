@@ -20,11 +20,11 @@
 
 <img src="img/p1_calculator.PNG" alt="Calculator IMG 1" title="Calculator" width="300" height="auto">
 
-## Descritiptions of Calculator Functionality 
+## Descritiptions of Calculators Functions
 
 ### Highlighted Operator Buttons
 
-* Highlighted operator buttons show the user which operator button is in use. 
+* The highlighted operator buttons on a calculator are visually emphasized to indicate active or selected operations. These buttons, such as +, -, ×, ÷, or =, are highlighted with a different color to make them stand out and clearly show which operation the user is performing. This visual cue helps guide users through the calculation process, ensuring they know which arithmetic operation is selected before entering numbers or completing a calculation.
 1. *Addition* 
 2. *Subtraction* 
 3. *Multiplication* 
@@ -37,6 +37,13 @@
     <img src="img/p4_calculator.PNG" alt="Multiplication" title="Multiplication" width="200">
     <img src="img/p5_calculator.PNG" alt="Division" title="Division" width="200">
 </div>
+
+### Positive/Negative Button
+
+* The +/- button on a calculator allows the user to toggle the sign of the current number, switching between positive and negative values. It is commonly used for quickly changing the sign of a number during calculations. When pressed, it either adds a minus sign in front of the number or removes it, making it a useful tool for operations involving both positive and negative numbers.
+
+
+
 
 
 
