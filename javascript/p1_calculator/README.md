@@ -88,6 +88,14 @@
 
 * The +/- button on a calculator allows the user to toggle the sign of the current number, switching between positive and negative values. It is commonly used for quickly changing the sign of a number during calculations. When pressed, it either adds a minus sign in front of the number or removes it, making it a useful tool for operations involving both positive and negative numbers.
 
+#### Ex. 1
+### Calculator using the "+/-" button
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/pos_neg_1.PNG" alt="-33" title="-33" width="200">
+    <img src="img/pos_neg_2.PNG" alt="66" title="66" width="200">
+    <img src="img/pos_neg_3.PNG" alt="33" title="33" width="200">    
+</div>
 
 
 
