@@ -40,6 +40,8 @@
     <img src="img/p5_calculator.PNG" alt="Division" title="Division" width="200">
 </div>
 
+#
+
 #### Ex. 2 Calculator using *Addition*
 
 * 11 + 22 = 33 
