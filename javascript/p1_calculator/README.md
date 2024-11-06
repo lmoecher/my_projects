@@ -16,6 +16,8 @@
 
 ## Project Description
 
+### Digital Calculator
+
 * I created a JavaScript-powered calculator with an intuitive, responsive UI for basic arithmetic operations. It uses event listeners and DOM manipulation to provide smooth, instant feedback on user actions. The code is modular, ensuring readability and easy maintenance, while the design keeps the interface clean and accessible for a seamless user experience.
 
 <img src="img/p1_calculator.PNG" alt="Calculator IMG 1" title="Calculator" width="300" height="auto">
@@ -38,7 +40,18 @@
     <img src="img/p5_calculator.PNG" alt="Division" title="Division" width="200">
 </div>
 
-### Positive/Negative Button
+#### Ex. 2 Calculator using *Addition*
+
+* 11 + 22 = 33 
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/addition_1.PNG" alt="Addition" title="Addition 1" width="200">
+    <img src="img/addition_2.PNG" alt="Subtraction" title="Addition 2" width="200">
+    <img src="img/addition_3.PNG" alt="Multiplication" title="Addition 3" width="200">
+    
+</div>
+
+### Positive/Negative Button "+/-"
 
 * The +/- button on a calculator allows the user to toggle the sign of the current number, switching between positive and negative values. It is commonly used for quickly changing the sign of a number during calculations. When pressed, it either adds a minus sign in front of the number or removes it, making it a useful tool for operations involving both positive and negative numbers.
 
