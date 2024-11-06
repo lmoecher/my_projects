@@ -25,24 +25,27 @@
 ### Example 1
 
 * Highlighted operator buttons show that they are in use.
-1. Addition, 2. Subtraction, 3. Multiplication, 4. Division
+1. Addition 
+2. Subtraction 
+3. Multiplication 
+4. Division
 
 <div style="display: flex; gap: 10px;">
-  <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">1.</figcaption>
-    <img src="img/p2_calculator.PNG" alt="Calculator IMG 2" title="1." width="200">
+  <figure style="text-align: center;">
+    <img src="img/p2_calculator.PNG" alt="Addition" title="Calculator IMG 2" width="200">
+    <figcaption>Calculator IMG 2</figcaption>
   </figure>
-  <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">2.</figcaption>
-    <img src="img/p3_calculator.PNG" alt="Calculator IMG 3" title="2." width="200">
+  <figure style="text-align: center;">
+    <img src="img/p3_calculator.PNG" alt="Subtraction" title="Calculator IMG 3" width="200">
+    <figcaption>Calculator IMG 3</figcaption>
   </figure>
-  <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">3.</figcaption>
-    <img src="img/p4_calculator.PNG" alt="Calculator IMG 4" title="3." width="200">
+  <figure style="text-align: center;">
+    <img src="img/p4_calculator.PNG" alt="Multiplication" title="Calculator IMG 4" width="200">
+    <figcaption>Calculator IMG 4</figcaption>
   </figure>
-  <figure style="position: relative; display: inline-block;">
-    <figcaption style="position: absolute; top: 55px; left: 55px; background-color: rgba(255, 255, 255, 0.6); padding: 2px;">4.</figcaption>
-    <img src="img/p5_calculator.PNG" alt="Calculator IMG 5" title="4." width="200">
+  <figure style="text-align: center;">
+    <img src="img/p5_calculator.PNG" alt="Division" title="Calculator IMG 5" width="200">
+    <figcaption>Calculator IMG 5</figcaption>
   </figure>
 </div>
 
