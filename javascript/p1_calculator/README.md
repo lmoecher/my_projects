@@ -32,7 +32,8 @@
 3. *Multiplication* 
 4. *Division*
 
-#### Ex. 1 Calculator using *Addition*
+#### Ex. 1 
+###Calculator using *Addition*
 
 * 11 + 22 = 33 
 
@@ -44,7 +45,8 @@
 
 # 
 
-#### Ex. 2 Calculator using *Subtraction*
+#### Ex. 2 
+###Calculator using *Subtraction*
 
 * 99 - 66 = 33
 
@@ -56,7 +58,8 @@
 
 #
 
-#### Ex. 3 Calculator using *Multiplication*
+#### Ex. 3 
+### Calculator using *Multiplication*
 
 * 11 x 3 = 33
 
@@ -68,7 +71,8 @@
 
 #
 
-#### Ex. 4 Calculator using *Division*
+#### Ex. 4 
+###Calculator using *Division*
 
 * 99 ÷ 3 = 33
 
