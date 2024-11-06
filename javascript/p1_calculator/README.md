@@ -32,26 +32,46 @@
 3. *Multiplication* 
 4. *Division*
 
-#### Ex. 1
-<div style="display: flex; gap: 10px;">
-    <img src="img/p2_calculator.PNG" alt="Addition" title="Addition" width="200">
-    <img src="img/p3_calculator.PNG" alt="Subtraction" title="Subtraction" width="200">
-    <img src="img/p4_calculator.PNG" alt="Multiplication" title="Multiplication" width="200">
-    <img src="img/p5_calculator.PNG" alt="Division" title="Division" width="200">
-</div>
-
-#
-
-#### Ex. 2 Calculator using *Addition*
+#### Ex. 1 Calculator using *Addition*
 
 * 11 + 22 = 33 
 
 <div style="display: flex; gap: 10px;">
-    <img src="img/addition_1.PNG" alt="Addition" title="Addition 1" width="200">
-    <img src="img/addition_2.PNG" alt="Subtraction" title="Addition 2" width="200">
-    <img src="img/addition_3.PNG" alt="Multiplication" title="Addition 3" width="200">
-    
+    <img src="img/addition_1.PNG" alt="11" title="11" width="200">
+    <img src="img/addition_2.PNG" alt="22" title="22" width="200">
+    <img src="img/addition_3.PNG" alt="33" title="33" width="200">    
 </div>
+
+# 
+
+#### Ex. 2 Calculator using *Subtraction*
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/subtraction_1.PNG" alt="99" title="99" width="200">
+    <img src="img/subtraction_2.PNG" alt="66" title="66" width="200">
+    <img src="img/subtraction_3.PNG" alt="33" title="33" width="200">    
+</div>
+
+#
+
+#### Ex. 3 Calculator using *Multiplication*
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/multiplication_1.PNG" alt="11" title="11" width="200">
+    <img src="img/multiplication_2.PNG" alt="3" title="3" width="200">
+    <img src="img/multiplication_3.PNG" alt="33" title="33" width="200">    
+</div>
+
+#
+
+#### Ex. 4 Calculator using *Division*
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/division_1.PNG" alt="99" title="99" width="200">
+    <img src="img/division_2.PNG" alt="3" title="3" width="200">
+    <img src="img/division_3.PNG" alt="33" title="33" width="200">    
+</div>
+
 
 ### Positive/Negative Button "+/-"
 
