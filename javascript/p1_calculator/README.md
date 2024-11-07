@@ -120,9 +120,9 @@
 * 75 x 3% = 2.25
 
 <div style="display: flex; gap: 10px;">
-    <img src="img/percent_1.PNG" alt="75" title="75" width="200">
-    <img src="img/percent_2.PNG" alt="3%" title="3%" width="200">
-    <img src="img/percent_3.PNG" alt="2.25" title="2.25" width="200">    
+    <img src="img/percent_3.PNG" alt="75" title="75" width="200">
+    <img src="img/percent_4.PNG" alt="3%" title="3%" width="200">
+    <img src="img/percent_5.PNG" alt="2.25" title="2.25" width="200">    
 </div>
 
 #
