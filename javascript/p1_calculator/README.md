@@ -83,6 +83,22 @@
 
 #
 
+### Calculator All Clear Button
+
+* The AC (All Clear) button on a calculator resets the calculator to its default state by clearing all current inputs, calculations, and stored values from the display. This button is useful for starting fresh calculations, as it removes any previously entered numbers or operations and sets the calculator back to 0.
+
+#### Ex. 1
+### Calculator clearing previous operation
+
+* Previous answer "33" being cleared
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/allclear_1.PNG" alt="33" title="33" width="200">
+    <img src="img/allclear_2.PNG" alt="0" title="0" width="200">   
+</div>
+
+#
+
 ### Positive/Negative Button "+/-"
 
 * The +/- button on a calculator allows the user to toggle the sign of the current number, switching between positive and negative values. It is commonly used for quickly changing the sign of a number during calculations. When pressed, it either adds a minus sign in front of the number or removes it, making it a useful tool for operations involving both positive and negative numbers.
@@ -126,5 +142,21 @@
 </div>
 
 #
+
+### Decimal Button
+
+* The decimal (.) button on a calculator allows users to enter decimal points in numbers, enabling precise calculations with non-integer values. By pressing the decimal button, users can input numbers such as 3.14 or 0.75, essential for calculations involving fractions or measurements. It helps ensure accuracy in financial, scientific, and everyday math calculations, allowing for more precise values beyond whole numbers.
+
+#### Ex. 1
+### Calculator using the "." button
+
+* 900 * 2.44 = 2196
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/decimal_1.PNG" alt="900" title="900" width="200">
+    <img src="img/decimal_2.PNG" alt="2.44" title="2.44" width="200">
+    <img src="img/decimal_3.PNG" alt="2196" title="2196" width="200">    
+</div>
+
 
 
