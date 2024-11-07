@@ -8,6 +8,12 @@
 
 2. Examples of calculator functionality with screenshots
 
+	1. Highlighted Operator Buttons
+	2. All Clear Button
+	3. Positive/Negative Button "+/-"
+	4. Percentage Button
+	5. Decimal Button
+
 #### Link to the files
 
 * Link to *Calculator* html file: [Calculator html file](index.html "html file")
@@ -24,7 +30,7 @@
 
 # Descriptions of Calculators Functions
 
-### Highlighted Operator Buttons
+### 1. Highlighted Operator Buttons
 
 * The highlighted operator buttons on a calculator are visually emphasized to indicate active or selected operations. These buttons, such as +, -, ×, ÷, or =, are highlighted with a different color to make them stand out and clearly show which operation the user is performing. This visual cue helps guide users through the calculation process, ensuring they know which arithmetic operation is selected before entering numbers or completing a calculation.
 1. *Addition* 
@@ -83,12 +89,12 @@
 
 #
 
-### Calculator All Clear Button
+### 2. All Clear Button
 
 * The AC (All Clear) button on a calculator resets the calculator to its default state by clearing all current inputs, calculations, and stored values from the display. This button is useful for starting fresh calculations, as it removes any previously entered numbers or operations and sets the calculator back to 0.
 
 #### Ex. 1
-### Calculator clearing previous operation
+### Calculator clearing previous operation using "AC"
 
 * Previous answer "33" being cleared
 
@@ -99,7 +105,7 @@
 
 #
 
-### Positive/Negative Button "+/-"
+### 3. Positive/Negative Button "+/-"
 
 * The +/- button on a calculator allows the user to toggle the sign of the current number, switching between positive and negative values. It is commonly used for quickly changing the sign of a number during calculations. When pressed, it either adds a minus sign in front of the number or removes it, making it a useful tool for operations involving both positive and negative numbers.
 
@@ -116,7 +122,7 @@
 
 # 
 
-### Percentage Button
+### 4. Percentage Button
 
 * The percentage (%) button on a calculator allows users to quickly calculate percentages or convert numbers to their percentage value. When pressed, it often interprets the displayed number as a percentage of a previously entered value, making it useful for finding proportions, discounts, or interest rates in calculations. In standalone use, it can convert the displayed number into a percentage by dividing by 100, turning 50 into 0.5, for example. This versatile button simplifies common percentage-related calculations with a single tap.
 
@@ -143,7 +149,7 @@
 
 #
 
-### Decimal Button
+### 5. Decimal Button
 
 * The decimal (.) button on a calculator allows users to enter decimal points in numbers, enabling precise calculations with non-integer values. By pressing the decimal button, users can input numbers such as 3.14 or 0.75, essential for calculations involving fractions or measurements. It helps ensure accuracy in financial, scientific, and everyday math calculations, allowing for more precise values beyond whole numbers.
 
