@@ -14,7 +14,7 @@
 * Link to *Calculator* css file: [Calculator css file](style.css "css file")
 * Link to *Calculator* js file: [Calculator js file](function.js "js file")
 
-## Project Description
+# Project Description
 
 ### Digital Calculator
 
