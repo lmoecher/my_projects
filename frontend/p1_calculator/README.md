@@ -16,9 +16,9 @@
 
 #### Link to the files
 
-* Link to *Calculator* CSS file: [Calculator css file](style.css "css file")
-* Link to *Calculator* HTML file: [Calculator html file](index.html "html file")
-* Link to *Calculator* JavaScript file: [Calculator js file](function.js "js file")
+* Link to *Calculator* CSS file: [Calculator CSS file](style.css "css file")
+* Link to *Calculator* HTML file: [Calculator HTML file](index.html "html file")
+* Link to *Calculator* JavaScript file: [Calculator JavaScript file](function.js "js file")
 
 # Project Description
 
