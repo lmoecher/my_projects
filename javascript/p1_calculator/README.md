@@ -48,12 +48,11 @@
 #### Ex. 2 
 ### Calculator using *Subtraction*
 
-* 99 - 66 = 33
-
+* 100 - 75 = 25
 <div style="display: flex; gap: 10px;">
-    <img src="img/subtraction_1.PNG" alt="99" title="99" width="200">
-    <img src="img/subtraction_2.PNG" alt="66" title="66" width="200">
-    <img src="img/subtraction_3.PNG" alt="33" title="33" width="200">    
+    <img src="img/subtraction_1.PNG" alt="100" title="100" width="200">
+    <img src="img/subtraction_2.PNG" alt="75" title="75" width="200">
+    <img src="img/subtraction_3.PNG" alt="25" title="25" width="200">    
 </div>
 
 #
@@ -61,12 +60,12 @@
 #### Ex. 3 
 ### Calculator using *Multiplication*
 
-* 11 x 3 = 33
+* 7 x 5 = 35
 
 <div style="display: flex; gap: 10px;">
-    <img src="img/multiplication_1.PNG" alt="11" title="11" width="200">
-    <img src="img/multiplication_2.PNG" alt="3" title="3" width="200">
-    <img src="img/multiplication_3.PNG" alt="33" title="33" width="200">    
+    <img src="img/multiplication_1.PNG" alt="7" title="7" width="200">
+    <img src="img/multiplication_2.PNG" alt="5" title="5" width="200">
+    <img src="img/multiplication_3.PNG" alt="35" title="35" width="200">    
 </div>
 
 #
@@ -74,12 +73,12 @@
 #### Ex. 4 
 ### Calculator using *Division*
 
-* 99 ÷ 3 = 33
+* 90 ÷ 10 = 9
 
 <div style="display: flex; gap: 10px;">
-    <img src="img/division_1.PNG" alt="99" title="99" width="200">
-    <img src="img/division_2.PNG" alt="3" title="3" width="200">
-    <img src="img/division_3.PNG" alt="33" title="33" width="200">    
+    <img src="img/division_1.PNG" alt="90" title="90" width="200">
+    <img src="img/division_2.PNG" alt="10" title="10" width="200">
+    <img src="img/division_3.PNG" alt="9" title="9" width="200">    
 </div>
 
 #
@@ -91,7 +90,7 @@
 #### Ex. 1
 ### Calculator using the "+/-" button
 
-* -33 + 66 = 33
+* -55 + 70 = 15
 
 <div style="display: flex; gap: 10px;">
     <img src="img/pos_neg_1.PNG" alt="-33" title="-33" width="200">
@@ -99,9 +98,33 @@
     <img src="img/pos_neg_3.PNG" alt="33" title="33" width="200">    
 </div>
 
+# 
 
+### Percentage Button
 
+* The percentage (%) button on a calculator allows users to quickly calculate percentages or convert numbers to their percentage value. When pressed, it often interprets the displayed number as a percentage of a previously entered value, making it useful for finding proportions, discounts, or interest rates in calculations. In standalone use, it can convert the displayed number into a percentage by dividing by 100, turning 50 into 0.5, for example. This versatile button simplifies common percentage-related calculations with a single tap.
 
+#### Ex. 1 
+### Calculator converting numbers into their percentage value
 
+<div style="display: flex; gap: 10px;">
+    <img src="img/percent_1.PNG" alt="25" title="25" width="200">
+    <img src="img/percent_2.PNG" alt=".25" title=".25" width="200">    
+</div>
+
+#
+
+#### Ex. 2 
+### Calculator using the "%" button in an equation
+
+* 75 x 3% = 2.25
+
+<div style="display: flex; gap: 10px;">
+    <img src="img/percent_1.PNG" alt="75" title="75" width="200">
+    <img src="img/percent_2.PNG" alt="3%" title="3%" width="200">
+    <img src="img/percent_3.PNG" alt="2.25" title="2.25" width="200">    
+</div>
+
+#
 
 
