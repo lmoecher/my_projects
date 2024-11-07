@@ -22,7 +22,7 @@
 
 <img src="img/p1_calculator.PNG" alt="Calculator IMG 1" title="Calculator" width="300" height="auto">
 
-## Descritiptions of Calculators Functions
+# Descriptions of Calculators Functions
 
 ### Highlighted Operator Buttons
 
