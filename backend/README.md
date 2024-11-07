@@ -75,5 +75,3 @@ This section is mostly focused on the coding language: Python
     - Backward engineer (using python) Project 2
     - Provide Screenshots of P2
     - Provide links to P2 and P2 output
-
-## Projects:
