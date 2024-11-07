@@ -7,9 +7,9 @@ This is a repository designated to showing me work done using different coding L
 
 *Development Links*:
 
-## [Front-End Development](frontend/README.md "Front-End Development README.md file")
+### 1. [Front-End Development](frontend/README.md "Front-End Development README.md file")
 
-## [Back-End Development](backend/README.md "Back-End Development README.md file")
+### 2. [Back-End Development](backend/README.md "Back-End Development README.md file")
 
 
 
