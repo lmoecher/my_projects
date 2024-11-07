@@ -2,7 +2,7 @@
 
 This section is designated to showing my work done using Front-End Development
 
-This section is mostly focused are the coding languages: CSS, HTML, JavaScript
+This section is mostly focused on the coding languages: CSS, HTML, JavaScript
 
 ## Logan Moecher
 

@@ -1,10 +1,12 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
+# My Projects focusing Back-End Development
 
-# LIS4369 - Extensible Enterprise Solutions (Python/R Data Analytics/Visualization)
+This section is designated to showing my work done using Back-End Development
+
+This section is mostly focused on the coding language: Python
+
+## LIS4369 - Extensible Enterprise Solutions (Python/R Data Analytics/Visualization)
 
 ## Logan Moecher
-
-### LIS4369 Requirments:
 
 *Course Work Links:*
 
